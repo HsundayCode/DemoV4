@@ -1,0 +1,68 @@
+[
+  {
+    "Id": 20001,
+    "Name": "ThreeMuzzle",
+    "Describe": "一次性发射3发子弹",
+    "Type": "装备",
+    "Parts": "Muzzle",
+    "Capacity": 1,
+    "Weight": 0.1,
+    "Price": 10,
+    "Sprite": "Weapons 2-Sheet_51"
+  },
+  {
+    "Id": 20002,
+    "Name": "FiveMuzzle",
+    "Describe": "一次性发射5发子弹",
+    "Type": "装备",
+    "Parts": "Muzzle",
+    "Capacity": 1,
+    "Weight": 0.1,
+    "Price": 30,
+    "Sprite": "Weapons 2-Sheet_51"
+  },
+  {
+    "Id": 20003,
+    "Name": "Sniping_Bullet",
+    "Describe": "狙击枪子弹",
+    "Type": "装备",
+    "Parts": "Bullet",
+    "Capacity": 1,
+    "Weight": 0.1,
+    "Price": 50,
+    "Sprite": "Bullets 3-Sheet_14"
+  },
+  {
+    "Id": 20004,
+    "Name": "Pistor",
+    "Describe": "默认手枪",
+    "Type": "装备",
+    "Parts": "Gun",
+    "Capacity": 1,
+    "Weight": 0.1,
+    "Price": 50,
+    "Sprite": "Weapons 2-Sheet_0"
+  },
+  {
+    "Id": 20005,
+    "Name": "Sniping",
+    "Describe": "狙击枪",
+    "Type": "装备",
+    "Parts": "Gun",
+    "Capacity": 1,
+    "Weight": 0.1,
+    "Price": 50,
+    "Sprite": "Weapons 2-Sheet_18"
+  },
+  {
+    "Id": 20006,
+    "Name": "ShootGun",
+    "Describe": "散弹枪",
+    "Type": "装备",
+    "Parts": "Gun",
+    "Capacity": 1,
+    "Weight": 0.1,
+    "Price": 50,
+    "Sprite": "Weapons 2-Sheet_4"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "ID": 1,
+    "TaskChainID": 1,
+    "TaskID": 1,
+    "RewardCount": 2,
+    "RewardName1": "Hp药剂",
+    "RewardID1": 10001,
+    "RewardCount1": 1,
+    "RewardName2": "Mp药剂",
+    "RewardID2": 10002,
+    "RewardCount2": 1
+  },
+  {
+    "ID": 2,
+    "TaskChainID": 1,
+    "TaskID": 2,
+    "RewardCount": 1,
+    "RewardName1": "Hp药剂",
+    "RewardID1": 10001,
+    "RewardCount1": 1
+  }
+]

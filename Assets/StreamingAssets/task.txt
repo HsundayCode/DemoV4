@@ -1,0 +1,38 @@
+[
+  {
+    "ChainId": 1,
+    "Id": 1,
+    "TaskName": "清除周边",
+    "Describe": "杀死10个哥布林",
+    "ConditionNumber": 1,
+    "Condition1": "Goblin",
+    "ConditionType1": "战斗",
+    "ConditionRequire1": 10
+  },
+  {
+    "ChainId": 1,
+    "Id": 2,
+    "TaskName": "探索新地方",
+    "Describe": "寻找两个标记位",
+    "ConditionNumber": 2,
+    "Condition1": "标记1",
+    "ConditionType1": "探索",
+    "ConditionRequire1": 1,
+    "Condition2": "标记2",
+    "ConditionType2": "探索",
+    "ConditionRequire2": 1
+  },
+  {
+    "ChainId": 1,
+    "Id": 3,
+    "TaskName": "收集材料",
+    "Describe": "收集散落的材料",
+    "ConditionNumber": 2,
+    "Condition1": "哥布林手骨",
+    "ConditionType1": "收集",
+    "ConditionRequire1": 10,
+    "Condition2": "哥布林的武器",
+    "ConditionType2": "收集",
+    "ConditionRequire2": 5
+  }
+]
