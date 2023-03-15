@@ -1,0 +1,150 @@
+
+2023-02-24-02-10-12:NullReferenceException: Object reference not set to an instance of an object
+EventCenter.Trigger[T1,T2] (System.String name, T1 info, T2 info2) (at Assets/Script/EventManage/EventCenter.cs:72)
+BaseGun.Fire () (at Assets/Script/WeaponSystem/Gun/BaseGun.cs:65)
+BaseGun.Update () (at Assets/Script/WeaponSystem/Gun/BaseGun.cs:45)
+
+
+
+2023-02-24-02-14-27:NullReferenceException: Object reference not set to an instance of an object
+AudioManage.PlaySound (UnityEngine.GameObject g, System.String SoundName, System.Boolean loop) (at Assets/Script/Manage/AudioManage.cs:24)
+BaseGun.Fire () (at Assets/Script/WeaponSystem/Gun/BaseGun.cs:63)
+BaseGun.Update () (at Assets/Script/WeaponSystem/Gun/BaseGun.cs:45)
+
+
+
+2023-02-24-02-14-28:NullReferenceException: Object reference not set to an instance of an object
+AudioManage.PlaySound (UnityEngine.GameObject g, System.String SoundName, System.Boolean loop) (at Assets/Script/Manage/AudioManage.cs:24)
+BaseGun.Fire () (at Assets/Script/WeaponSystem/Gun/BaseGun.cs:63)
+BaseGun.Update () (at Assets/Script/WeaponSystem/Gun/BaseGun.cs:45)
+
+
+
+2023-02-24-02-14-30:NullReferenceException: Object reference not set to an instance of an object
+AudioManage.PlaySound (UnityEngine.GameObject g, System.String SoundName, System.Boolean loop) (at Assets/Script/Manage/AudioManage.cs:24)
+BaseGun.Fire () (at Assets/Script/WeaponSystem/Gun/BaseGun.cs:63)
+BaseGun.Update () (at Assets/Script/WeaponSystem/Gun/BaseGun.cs:45)
+
+
+
+2023-02-24-02-53-22:NullReferenceException: Object reference not set to an instance of an object
+AudioManage.PlaySound (UnityEngine.GameObject g, System.String SoundName, System.Boolean loop) (at Assets/Script/Manage/AudioManage.cs:24)
+BaseGun.Fire () (at Assets/Script/WeaponSystem/Gun/BaseGun.cs:63)
+BaseGun.Update () (at Assets/Script/WeaponSystem/Gun/BaseGun.cs:45)
+
+
+
+2023-02-24-02-53-22:NullReferenceException: Object reference not set to an instance of an object
+AudioManage.PlaySound (UnityEngine.GameObject g, System.String SoundName, System.Boolean loop) (at Assets/Script/Manage/AudioManage.cs:24)
+BaseGun.Fire () (at Assets/Script/WeaponSystem/Gun/BaseGun.cs:63)
+BaseGun.Update () (at Assets/Script/WeaponSystem/Gun/BaseGun.cs:45)
+
+
+
+2023-02-24-02-53-26:NullReferenceException: Object reference not set to an instance of an object
+AudioManage.PlaySound (UnityEngine.GameObject g, System.String SoundName, System.Boolean loop) (at Assets/Script/Manage/AudioManage.cs:24)
+BaseGun.Fire () (at Assets/Script/WeaponSystem/Gun/BaseGun.cs:63)
+BaseGun.Update () (at Assets/Script/WeaponSystem/Gun/BaseGun.cs:45)
+
+
+
+2023-02-24-03-04-16:NullReferenceException: Object reference not set to an instance of an object
+AudioManage.PlaySound (UnityEngine.GameObject g, System.String SoundName, System.Boolean loop) (at Assets/Script/Manage/AudioManage.cs:24)
+AttackState.OnEnter () (at Assets/Script/EnemyStateFSM/AttackState.cs:18)
+EnemyFSM.ChangeState (State state) (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:112)
+RunState.OnUpdate () (at Assets/Script/EnemyStateFSM/RunState.cs:27)
+EnemyFSM.Update () (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:88)
+
+
+
+2023-02-24-03-04-16:NullReferenceException: Object reference not set to an instance of an object
+AudioManage.PlaySound (UnityEngine.GameObject g, System.String SoundName, System.Boolean loop) (at Assets/Script/Manage/AudioManage.cs:24)
+AttackState.OnEnter () (at Assets/Script/EnemyStateFSM/AttackState.cs:18)
+EnemyFSM.ChangeState (State state) (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:112)
+RunState.OnUpdate () (at Assets/Script/EnemyStateFSM/RunState.cs:27)
+EnemyFSM.Update () (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:88)
+
+
+
+2023-02-24-03-04-16:NullReferenceException: Object reference not set to an instance of an object
+AudioManage.PlaySound (UnityEngine.GameObject g, System.String SoundName, System.Boolean loop) (at Assets/Script/Manage/AudioManage.cs:24)
+AttackState.OnEnter () (at Assets/Script/EnemyStateFSM/AttackState.cs:18)
+EnemyFSM.ChangeState (State state) (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:112)
+RunState.OnUpdate () (at Assets/Script/EnemyStateFSM/RunState.cs:27)
+EnemyFSM.Update () (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:88)
+
+
+
+2023-02-24-03-05-44:NullReferenceException: Object reference not set to an instance of an object
+AudioManage.PlaySound (UnityEngine.GameObject g, System.String SoundName, System.Boolean loop) (at Assets/Script/Manage/AudioManage.cs:24)
+EnemyFSM.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:123)
+
+
+
+2023-02-24-03-05-44:NullReferenceException: Object reference not set to an instance of an object
+AudioManage.PlaySound (UnityEngine.GameObject g, System.String SoundName, System.Boolean loop) (at Assets/Script/Manage/AudioManage.cs:24)
+EnemyFSM.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:123)
+
+
+
+2023-02-24-03-05-45:NullReferenceException: Object reference not set to an instance of an object
+AudioManage.PlaySound (UnityEngine.GameObject g, System.String SoundName, System.Boolean loop) (at Assets/Script/Manage/AudioManage.cs:24)
+AttackState.OnEnter () (at Assets/Script/EnemyStateFSM/AttackState.cs:18)
+EnemyFSM.ChangeState (State state) (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:112)
+RunState.OnUpdate () (at Assets/Script/EnemyStateFSM/RunState.cs:27)
+EnemyFSM.Update () (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:88)
+
+
+
+2023-02-24-05-02-22:NullReferenceException: Object reference not set to an instance of an object
+GunManage.UseWeapon (System.String name) (at Assets/Script/WeaponSystem/Gun/GunManage.cs:81)
+EventCenter.Trigger[T] (System.String name, T info) (at Assets/Script/EventManage/EventCenter.cs:62)
+ItemUI.UseItem () (at Assets/Script/UI/Knapsack/ItemUI.cs:37)
+ShortcutBarManage.BindKeys () (at Assets/Script/UI/Knapsack/ShortcutBarManage.cs:79)
+ShortcutBarManage.Update () (at Assets/Script/UI/Knapsack/ShortcutBarManage.cs:36)
+
+
+
+2023-02-24-05-02-23:NullReferenceException: Object reference not set to an instance of an object
+GunManage.UseWeapon (System.String name) (at Assets/Script/WeaponSystem/Gun/GunManage.cs:81)
+EventCenter.Trigger[T] (System.String name, T info) (at Assets/Script/EventManage/EventCenter.cs:62)
+ItemUI.UseItem () (at Assets/Script/UI/Knapsack/ItemUI.cs:37)
+ShortcutBarManage.BindKeys () (at Assets/Script/UI/Knapsack/ShortcutBarManage.cs:79)
+ShortcutBarManage.Update () (at Assets/Script/UI/Knapsack/ShortcutBarManage.cs:36)
+
+
+
+2023-02-24-05-03-19:NullReferenceException: Object reference not set to an instance of an object
+GunManage.UseWeapon (System.String name) (at Assets/Script/WeaponSystem/Gun/GunManage.cs:81)
+EventCenter.Trigger[T] (System.String name, T info) (at Assets/Script/EventManage/EventCenter.cs:62)
+ItemUI.UseItem () (at Assets/Script/UI/Knapsack/ItemUI.cs:37)
+ShortcutBarManage.BindKeys () (at Assets/Script/UI/Knapsack/ShortcutBarManage.cs:79)
+ShortcutBarManage.Update () (at Assets/Script/UI/Knapsack/ShortcutBarManage.cs:36)
+
+
+
+2023-02-24-05-04-10:NullReferenceException: Object reference not set to an instance of an object
+GunManage.UseWeapon (System.String name) (at Assets/Script/WeaponSystem/Gun/GunManage.cs:81)
+EventCenter.Trigger[T] (System.String name, T info) (at Assets/Script/EventManage/EventCenter.cs:62)
+ItemUI.UseItem () (at Assets/Script/UI/Knapsack/ItemUI.cs:37)
+ShortcutBarManage.BindKeys () (at Assets/Script/UI/Knapsack/ShortcutBarManage.cs:79)
+ShortcutBarManage.Update () (at Assets/Script/UI/Knapsack/ShortcutBarManage.cs:36)
+
+
+
+2023-02-24-05-29-15:NullReferenceException: Object reference not set to an instance of an object
+ItemUI.ShowItemUI () (at Assets/Script/UI/Knapsack/ItemUI.cs:80)
+ItemUI.SetItem (Item item, System.Int32 Count) (at Assets/Script/UI/Knapsack/ItemUI.cs:61)
+Cell.CreateItem (Item item) (at Assets/Script/UI/Knapsack/Cell.cs:18)
+ShortcutBarManage.AddItem (System.String name) (at Assets/Script/UI/Knapsack/ShortcutBarManage.cs:54)
+EventCenter.Trigger[T] (System.String name, T info) (at Assets/Script/EventManage/EventCenter.cs:62)
+GunManage.AddWeapon (System.String name) (at Assets/Script/WeaponSystem/Gun/GunManage.cs:66)
+EventCenter.Trigger[T] (System.String name, T info) (at Assets/Script/EventManage/EventCenter.cs:62)
+GameMain.Update () (at Assets/Script/GameMain.cs:46)
+
+
+
+2023-02-24-05-29-15:NullReferenceException: Object reference not set to an instance of an object
+ShortcutBarManage.Start () (at Assets/Script/UI/Knapsack/ShortcutBarManage.cs:20)
+
+

@@ -1,0 +1,475 @@
+
+2023-02-23-08-08-48:ArgumentNullException: Value cannot be null.
+Parameter name: key
+System.Collections.Generic.Dictionary`2[TKey,TValue].FindEntry (TKey key) (at <75633565436c42f0a6426b33f0132ade>:0)
+System.Collections.Generic.Dictionary`2[TKey,TValue].ContainsKey (TKey key) (at <75633565436c42f0a6426b33f0132ade>:0)
+EventCenter.Trigger[T] (System.String name, T info) (at Assets/Script/EventManage/EventCenter.cs:58)
+BaseGun.Fire () (at Assets/Script/WeaponSystem/Gun/BaseGun.cs:64)
+BaseGun.Update () (at Assets/Script/WeaponSystem/Gun/BaseGun.cs:44)
+
+
+
+2023-02-23-08-08-50:ArgumentNullException: Value cannot be null.
+Parameter name: key
+System.Collections.Generic.Dictionary`2[TKey,TValue].FindEntry (TKey key) (at <75633565436c42f0a6426b33f0132ade>:0)
+System.Collections.Generic.Dictionary`2[TKey,TValue].ContainsKey (TKey key) (at <75633565436c42f0a6426b33f0132ade>:0)
+EventCenter.Trigger[T] (System.String name, T info) (at Assets/Script/EventManage/EventCenter.cs:58)
+BaseGun.Fire () (at Assets/Script/WeaponSystem/Gun/BaseGun.cs:64)
+BaseGun.Update () (at Assets/Script/WeaponSystem/Gun/BaseGun.cs:44)
+
+
+
+2023-02-23-08-08-52:ArgumentNullException: Value cannot be null.
+Parameter name: key
+System.Collections.Generic.Dictionary`2[TKey,TValue].FindEntry (TKey key) (at <75633565436c42f0a6426b33f0132ade>:0)
+System.Collections.Generic.Dictionary`2[TKey,TValue].ContainsKey (TKey key) (at <75633565436c42f0a6426b33f0132ade>:0)
+EventCenter.Trigger[T] (System.String name, T info) (at Assets/Script/EventManage/EventCenter.cs:58)
+BaseGun.Fire () (at Assets/Script/WeaponSystem/Gun/BaseGun.cs:64)
+BaseGun.Update () (at Assets/Script/WeaponSystem/Gun/BaseGun.cs:44)
+
+
+
+2023-02-23-08-08-53:ArgumentNullException: Value cannot be null.
+Parameter name: key
+System.Collections.Generic.Dictionary`2[TKey,TValue].FindEntry (TKey key) (at <75633565436c42f0a6426b33f0132ade>:0)
+System.Collections.Generic.Dictionary`2[TKey,TValue].ContainsKey (TKey key) (at <75633565436c42f0a6426b33f0132ade>:0)
+EventCenter.Trigger[T] (System.String name, T info) (at Assets/Script/EventManage/EventCenter.cs:58)
+BaseGun.Fire () (at Assets/Script/WeaponSystem/Gun/BaseGun.cs:64)
+BaseGun.Update () (at Assets/Script/WeaponSystem/Gun/BaseGun.cs:44)
+
+
+
+2023-02-23-08-08-55:ArgumentNullException: Value cannot be null.
+Parameter name: key
+System.Collections.Generic.Dictionary`2[TKey,TValue].FindEntry (TKey key) (at <75633565436c42f0a6426b33f0132ade>:0)
+System.Collections.Generic.Dictionary`2[TKey,TValue].ContainsKey (TKey key) (at <75633565436c42f0a6426b33f0132ade>:0)
+EventCenter.Trigger[T] (System.String name, T info) (at Assets/Script/EventManage/EventCenter.cs:58)
+BaseGun.Fire () (at Assets/Script/WeaponSystem/Gun/BaseGun.cs:64)
+BaseGun.Update () (at Assets/Script/WeaponSystem/Gun/BaseGun.cs:44)
+
+
+
+2023-02-23-08-09-05:ArgumentNullException: Value cannot be null.
+Parameter name: key
+System.Collections.Generic.Dictionary`2[TKey,TValue].FindEntry (TKey key) (at <75633565436c42f0a6426b33f0132ade>:0)
+System.Collections.Generic.Dictionary`2[TKey,TValue].ContainsKey (TKey key) (at <75633565436c42f0a6426b33f0132ade>:0)
+EventCenter.Trigger[T] (System.String name, T info) (at Assets/Script/EventManage/EventCenter.cs:58)
+BaseGun.Fire () (at Assets/Script/WeaponSystem/Gun/BaseGun.cs:64)
+BaseGun.Update () (at Assets/Script/WeaponSystem/Gun/BaseGun.cs:44)
+
+
+
+2023-02-23-08-17-23:ArgumentNullException: Value cannot be null.
+Parameter name: key
+System.Collections.Generic.Dictionary`2[TKey,TValue].FindEntry (TKey key) (at <75633565436c42f0a6426b33f0132ade>:0)
+System.Collections.Generic.Dictionary`2[TKey,TValue].ContainsKey (TKey key) (at <75633565436c42f0a6426b33f0132ade>:0)
+EventCenter.Trigger[T] (System.String name, T info) (at Assets/Script/EventManage/EventCenter.cs:58)
+BaseGun.Fire () (at Assets/Script/WeaponSystem/Gun/BaseGun.cs:64)
+BaseGun.Update () (at Assets/Script/WeaponSystem/Gun/BaseGun.cs:44)
+
+
+
+2023-02-23-08-17-25:ArgumentNullException: Value cannot be null.
+Parameter name: key
+System.Collections.Generic.Dictionary`2[TKey,TValue].FindEntry (TKey key) (at <75633565436c42f0a6426b33f0132ade>:0)
+System.Collections.Generic.Dictionary`2[TKey,TValue].ContainsKey (TKey key) (at <75633565436c42f0a6426b33f0132ade>:0)
+EventCenter.Trigger[T] (System.String name, T info) (at Assets/Script/EventManage/EventCenter.cs:58)
+BaseGun.Fire () (at Assets/Script/WeaponSystem/Gun/BaseGun.cs:64)
+BaseGun.Update () (at Assets/Script/WeaponSystem/Gun/BaseGun.cs:44)
+
+
+
+2023-02-23-08-17-25:ArgumentNullException: Value cannot be null.
+Parameter name: key
+System.Collections.Generic.Dictionary`2[TKey,TValue].FindEntry (TKey key) (at <75633565436c42f0a6426b33f0132ade>:0)
+System.Collections.Generic.Dictionary`2[TKey,TValue].ContainsKey (TKey key) (at <75633565436c42f0a6426b33f0132ade>:0)
+EventCenter.Trigger[T] (System.String name, T info) (at Assets/Script/EventManage/EventCenter.cs:58)
+BaseGun.Fire () (at Assets/Script/WeaponSystem/Gun/BaseGun.cs:64)
+BaseGun.Update () (at Assets/Script/WeaponSystem/Gun/BaseGun.cs:44)
+
+
+
+2023-02-23-08-17-25:ArgumentNullException: Value cannot be null.
+Parameter name: key
+System.Collections.Generic.Dictionary`2[TKey,TValue].FindEntry (TKey key) (at <75633565436c42f0a6426b33f0132ade>:0)
+System.Collections.Generic.Dictionary`2[TKey,TValue].ContainsKey (TKey key) (at <75633565436c42f0a6426b33f0132ade>:0)
+EventCenter.Trigger[T] (System.String name, T info) (at Assets/Script/EventManage/EventCenter.cs:58)
+BaseGun.Fire () (at Assets/Script/WeaponSystem/Gun/BaseGun.cs:64)
+BaseGun.Update () (at Assets/Script/WeaponSystem/Gun/BaseGun.cs:44)
+
+
+
+2023-02-23-08-17-25:ArgumentNullException: Value cannot be null.
+Parameter name: key
+System.Collections.Generic.Dictionary`2[TKey,TValue].FindEntry (TKey key) (at <75633565436c42f0a6426b33f0132ade>:0)
+System.Collections.Generic.Dictionary`2[TKey,TValue].ContainsKey (TKey key) (at <75633565436c42f0a6426b33f0132ade>:0)
+EventCenter.Trigger[T] (System.String name, T info) (at Assets/Script/EventManage/EventCenter.cs:58)
+BaseGun.Fire () (at Assets/Script/WeaponSystem/Gun/BaseGun.cs:64)
+BaseGun.Update () (at Assets/Script/WeaponSystem/Gun/BaseGun.cs:44)
+
+
+
+2023-02-23-08-17-25:ArgumentNullException: Value cannot be null.
+Parameter name: key
+System.Collections.Generic.Dictionary`2[TKey,TValue].FindEntry (TKey key) (at <75633565436c42f0a6426b33f0132ade>:0)
+System.Collections.Generic.Dictionary`2[TKey,TValue].ContainsKey (TKey key) (at <75633565436c42f0a6426b33f0132ade>:0)
+EventCenter.Trigger[T] (System.String name, T info) (at Assets/Script/EventManage/EventCenter.cs:58)
+BaseGun.Fire () (at Assets/Script/WeaponSystem/Gun/BaseGun.cs:64)
+BaseGun.Update () (at Assets/Script/WeaponSystem/Gun/BaseGun.cs:44)
+
+
+
+2023-02-23-08-17-26:ArgumentNullException: Value cannot be null.
+Parameter name: key
+System.Collections.Generic.Dictionary`2[TKey,TValue].FindEntry (TKey key) (at <75633565436c42f0a6426b33f0132ade>:0)
+System.Collections.Generic.Dictionary`2[TKey,TValue].ContainsKey (TKey key) (at <75633565436c42f0a6426b33f0132ade>:0)
+EventCenter.Trigger[T] (System.String name, T info) (at Assets/Script/EventManage/EventCenter.cs:58)
+BaseGun.Fire () (at Assets/Script/WeaponSystem/Gun/BaseGun.cs:64)
+BaseGun.Update () (at Assets/Script/WeaponSystem/Gun/BaseGun.cs:44)
+
+
+
+2023-02-23-08-17-26:ArgumentNullException: Value cannot be null.
+Parameter name: key
+System.Collections.Generic.Dictionary`2[TKey,TValue].FindEntry (TKey key) (at <75633565436c42f0a6426b33f0132ade>:0)
+System.Collections.Generic.Dictionary`2[TKey,TValue].ContainsKey (TKey key) (at <75633565436c42f0a6426b33f0132ade>:0)
+EventCenter.Trigger[T] (System.String name, T info) (at Assets/Script/EventManage/EventCenter.cs:58)
+BaseGun.Fire () (at Assets/Script/WeaponSystem/Gun/BaseGun.cs:64)
+BaseGun.Update () (at Assets/Script/WeaponSystem/Gun/BaseGun.cs:44)
+
+
+
+2023-02-23-08-17-26:ArgumentNullException: Value cannot be null.
+Parameter name: key
+System.Collections.Generic.Dictionary`2[TKey,TValue].FindEntry (TKey key) (at <75633565436c42f0a6426b33f0132ade>:0)
+System.Collections.Generic.Dictionary`2[TKey,TValue].ContainsKey (TKey key) (at <75633565436c42f0a6426b33f0132ade>:0)
+EventCenter.Trigger[T] (System.String name, T info) (at Assets/Script/EventManage/EventCenter.cs:58)
+BaseGun.Fire () (at Assets/Script/WeaponSystem/Gun/BaseGun.cs:64)
+BaseGun.Update () (at Assets/Script/WeaponSystem/Gun/BaseGun.cs:44)
+
+
+
+2023-02-23-08-19-13:ArgumentNullException: Value cannot be null.
+Parameter name: key
+System.Collections.Generic.Dictionary`2[TKey,TValue].FindEntry (TKey key) (at <75633565436c42f0a6426b33f0132ade>:0)
+System.Collections.Generic.Dictionary`2[TKey,TValue].ContainsKey (TKey key) (at <75633565436c42f0a6426b33f0132ade>:0)
+EventCenter.Trigger[T] (System.String name, T info) (at Assets/Script/EventManage/EventCenter.cs:58)
+BaseGun.Fire () (at Assets/Script/WeaponSystem/Gun/BaseGun.cs:64)
+BaseGun.Update () (at Assets/Script/WeaponSystem/Gun/BaseGun.cs:44)
+
+
+
+2023-02-23-08-21-41:ArgumentNullException: Value cannot be null.
+Parameter name: key
+System.Collections.Generic.Dictionary`2[TKey,TValue].FindEntry (TKey key) (at <75633565436c42f0a6426b33f0132ade>:0)
+System.Collections.Generic.Dictionary`2[TKey,TValue].ContainsKey (TKey key) (at <75633565436c42f0a6426b33f0132ade>:0)
+EventCenter.Trigger[T] (System.String name, T info) (at Assets/Script/EventManage/EventCenter.cs:58)
+BaseGun.Fire () (at Assets/Script/WeaponSystem/Gun/BaseGun.cs:64)
+BaseGun.Update () (at Assets/Script/WeaponSystem/Gun/BaseGun.cs:44)
+
+
+
+2023-02-23-04-11-52:NullReferenceException: Object reference not set to an instance of an object
+ShopItemUI.showItem () (at Assets/Script/UI/Shop/ShopItemUI.cs:30)
+ShopItemUI.setItem (Item item) (at Assets/Script/UI/Shop/ShopItemUI.cs:25)
+ShopManage.CreateItem () (at Assets/Script/UI/Shop/ShopManage.cs:28)
+ShopManage.OnEnable () (at Assets/Script/UI/Shop/ShopManage.cs:20)
+UnityEngine.GameObject:SetActive(GameObject, Boolean)
+BasePanle:Show() (at Assets/Script/UI/Panle/BasePanle.cs:21)
+PanleManage:ShowPanle(String) (at Assets/Script/Manage/PanleManage.cs:49)
+GameMain:Update() (at Assets/Script/GameMain.cs:79)
+
+
+
+2023-02-23-04-19-14:NullReferenceException: Object reference not set to an instance of an object
+ShopItemUI.showItem () (at Assets/Script/UI/Shop/ShopItemUI.cs:30)
+ShopItemUI.setItem (Item item) (at Assets/Script/UI/Shop/ShopItemUI.cs:25)
+ShopManage.CreateItem () (at Assets/Script/UI/Shop/ShopManage.cs:28)
+ShopManage.OnEnable () (at Assets/Script/UI/Shop/ShopManage.cs:20)
+UnityEngine.GameObject:SetActive(GameObject, Boolean)
+BasePanle:Show() (at Assets/Script/UI/Panle/BasePanle.cs:21)
+PanleManage:ShowPanle(String) (at Assets/Script/Manage/PanleManage.cs:49)
+GameMain:Update() (at Assets/Script/GameMain.cs:79)
+
+
+
+2023-02-23-04-26-16:NullReferenceException: Object reference not set to an instance of an object
+ShopItemUI.showItem () (at Assets/Script/UI/Shop/ShopItemUI.cs:31)
+ShopItemUI.setItem (Item item) (at Assets/Script/UI/Shop/ShopItemUI.cs:25)
+ShopManage.CreateItem () (at Assets/Script/UI/Shop/ShopManage.cs:28)
+ShopManage.OnEnable () (at Assets/Script/UI/Shop/ShopManage.cs:20)
+UnityEngine.GameObject:SetActive(GameObject, Boolean)
+BasePanle:Show() (at Assets/Script/UI/Panle/BasePanle.cs:21)
+PanleManage:ShowPanle(String) (at Assets/Script/Manage/PanleManage.cs:49)
+GameMain:Update() (at Assets/Script/GameMain.cs:79)
+
+
+
+2023-02-23-04-28-27:NullReferenceException: Object reference not set to an instance of an object
+ShopItemUI.showItem () (at Assets/Script/UI/Shop/ShopItemUI.cs:31)
+ShopItemUI.setItem (Item item) (at Assets/Script/UI/Shop/ShopItemUI.cs:25)
+ShopManage.CreateItem () (at Assets/Script/UI/Shop/ShopManage.cs:28)
+ShopManage.OnEnable () (at Assets/Script/UI/Shop/ShopManage.cs:20)
+UnityEngine.GameObject:SetActive(GameObject, Boolean)
+BasePanle:Show() (at Assets/Script/UI/Panle/BasePanle.cs:21)
+PanleManage:ShowPanle(String) (at Assets/Script/Manage/PanleManage.cs:49)
+GameMain:Update() (at Assets/Script/GameMain.cs:79)
+
+
+
+2023-02-23-04-30-40:NullReferenceException: Object reference not set to an instance of an object
+ShopItemUI.showItem () (at Assets/Script/UI/Shop/ShopItemUI.cs:30)
+ShopItemUI.setItem (Item item) (at Assets/Script/UI/Shop/ShopItemUI.cs:25)
+ShopManage.CreateItem () (at Assets/Script/UI/Shop/ShopManage.cs:28)
+ShopManage.OnEnable () (at Assets/Script/UI/Shop/ShopManage.cs:20)
+UnityEngine.GameObject:SetActive(GameObject, Boolean)
+BasePanle:Show() (at Assets/Script/UI/Panle/BasePanle.cs:21)
+PanleManage:ShowPanle(String) (at Assets/Script/Manage/PanleManage.cs:49)
+GameMain:Update() (at Assets/Script/GameMain.cs:79)
+
+
+
+2023-02-23-04-33-00:NullReferenceException: Object reference not set to an instance of an object
+ShopItemUI.showItem () (at Assets/Script/UI/Shop/ShopItemUI.cs:31)
+ShopItemUI.setItem (Item item) (at Assets/Script/UI/Shop/ShopItemUI.cs:25)
+ShopManage.CreateItem () (at Assets/Script/UI/Shop/ShopManage.cs:28)
+ShopManage.OnEnable () (at Assets/Script/UI/Shop/ShopManage.cs:20)
+UnityEngine.GameObject:SetActive(GameObject, Boolean)
+BasePanle:Show() (at Assets/Script/UI/Panle/BasePanle.cs:21)
+PanleManage:ShowPanle(String) (at Assets/Script/Manage/PanleManage.cs:49)
+GameMain:Update() (at Assets/Script/GameMain.cs:79)
+
+
+
+2023-02-23-04-43-50:NullReferenceException: Object reference not set to an instance of an object
+ShopItemUI.showItem () (at Assets/Script/UI/Shop/ShopItemUI.cs:32)
+ShopItemUI.setItem (Item item) (at Assets/Script/UI/Shop/ShopItemUI.cs:27)
+ShopManage.CreateItem () (at Assets/Script/UI/Shop/ShopManage.cs:28)
+ShopManage.OnEnable () (at Assets/Script/UI/Shop/ShopManage.cs:20)
+UnityEngine.GameObject:SetActive(GameObject, Boolean)
+BasePanle:Show() (at Assets/Script/UI/Panle/BasePanle.cs:21)
+PanleManage:ShowPanle(String) (at Assets/Script/Manage/PanleManage.cs:49)
+GameMain:Update() (at Assets/Script/GameMain.cs:79)
+
+
+
+2023-02-23-04-47-13:NullReferenceException: Object reference not set to an instance of an object
+ShopItemUI.showItem () (at Assets/Script/UI/Shop/ShopItemUI.cs:32)
+ShopItemUI.setItem (Item item) (at Assets/Script/UI/Shop/ShopItemUI.cs:26)
+ShopManage.CreateItem () (at Assets/Script/UI/Shop/ShopManage.cs:28)
+ShopManage.OnEnable () (at Assets/Script/UI/Shop/ShopManage.cs:20)
+UnityEngine.GameObject:SetActive(GameObject, Boolean)
+BasePanle:Show() (at Assets/Script/UI/Panle/BasePanle.cs:21)
+PanleManage:ShowPanle(String) (at Assets/Script/Manage/PanleManage.cs:49)
+GameMain:Update() (at Assets/Script/GameMain.cs:79)
+
+
+
+2023-02-23-04-47-58:NullReferenceException: Object reference not set to an instance of an object
+ShopItemUI.showItem () (at Assets/Script/UI/Shop/ShopItemUI.cs:32)
+ShopItemUI.setItem (Item item) (at Assets/Script/UI/Shop/ShopItemUI.cs:26)
+ShopManage.CreateItem () (at Assets/Script/UI/Shop/ShopManage.cs:28)
+ShopManage.OnEnable () (at Assets/Script/UI/Shop/ShopManage.cs:20)
+UnityEngine.GameObject:SetActive(GameObject, Boolean)
+BasePanle:Show() (at Assets/Script/UI/Panle/BasePanle.cs:21)
+PanleManage:ShowPanle(String) (at Assets/Script/Manage/PanleManage.cs:49)
+GameMain:Update() (at Assets/Script/GameMain.cs:79)
+
+
+
+2023-02-23-04-50-28:NullReferenceException: Object reference not set to an instance of an object
+ShopItemUI.showItem () (at Assets/Script/UI/Shop/ShopItemUI.cs:33)
+ShopItemUI.setItem (Item item) (at Assets/Script/UI/Shop/ShopItemUI.cs:27)
+ShopManage.CreateItem () (at Assets/Script/UI/Shop/ShopManage.cs:28)
+ShopManage.OnEnable () (at Assets/Script/UI/Shop/ShopManage.cs:20)
+UnityEngine.GameObject:SetActive(GameObject, Boolean)
+BasePanle:Show() (at Assets/Script/UI/Panle/BasePanle.cs:21)
+PanleManage:ShowPanle(String) (at Assets/Script/Manage/PanleManage.cs:49)
+GameMain:Update() (at Assets/Script/GameMain.cs:79)
+
+
+
+2023-02-23-04-52-47:NullReferenceException: Object reference not set to an instance of an object
+ShopItemUI.showItem () (at Assets/Script/UI/Shop/ShopItemUI.cs:39)
+ShopItemUI.setItem (Item item) (at Assets/Script/UI/Shop/ShopItemUI.cs:27)
+ShopManage.CreateItem () (at Assets/Script/UI/Shop/ShopManage.cs:28)
+ShopManage.OnEnable () (at Assets/Script/UI/Shop/ShopManage.cs:20)
+UnityEngine.GameObject:SetActive(GameObject, Boolean)
+BasePanle:Show() (at Assets/Script/UI/Panle/BasePanle.cs:21)
+PanleManage:ShowPanle(String) (at Assets/Script/Manage/PanleManage.cs:49)
+GameMain:Update() (at Assets/Script/GameMain.cs:79)
+
+
+
+2023-02-23-04-56-42:IndexOutOfRangeException: Index was outside the bounds of the array.
+ShopManage.CreateItem () (at Assets/Script/UI/Shop/ShopManage.cs:28)
+ShopManage.OnEnable () (at Assets/Script/UI/Shop/ShopManage.cs:20)
+UnityEngine.GameObject:SetActive(GameObject, Boolean)
+BasePanle:Show() (at Assets/Script/UI/Panle/BasePanle.cs:21)
+PanleManage:ShowPanle(String) (at Assets/Script/Manage/PanleManage.cs:49)
+GameMain:Update() (at Assets/Script/GameMain.cs:79)
+
+
+
+2023-02-23-04-58-42:NullReferenceException: Object reference not set to an instance of an object
+ShopItemUI.showItem () (at Assets/Script/UI/Shop/ShopItemUI.cs:32)
+ShopItemUI.setItem (Item item) (at Assets/Script/UI/Shop/ShopItemUI.cs:27)
+ShopManage.CreateItem () (at Assets/Script/UI/Shop/ShopManage.cs:28)
+ShopManage.OnEnable () (at Assets/Script/UI/Shop/ShopManage.cs:20)
+UnityEngine.GameObject:SetActive(GameObject, Boolean)
+BasePanle:Show() (at Assets/Script/UI/Panle/BasePanle.cs:21)
+PanleManage:ShowPanle(String) (at Assets/Script/Manage/PanleManage.cs:49)
+GameMain:Update() (at Assets/Script/GameMain.cs:79)
+
+
+
+2023-02-23-05-05-24:NullReferenceException: Object reference not set to an instance of an object
+ShopItemUI.showItem () (at Assets/Script/UI/Shop/ShopItemUI.cs:32)
+ShopItemUI.setItem (Item item) (at Assets/Script/UI/Shop/ShopItemUI.cs:27)
+ShopManage.CreateItem () (at Assets/Script/UI/Shop/ShopManage.cs:28)
+ShopManage.OnEnable () (at Assets/Script/UI/Shop/ShopManage.cs:20)
+UnityEngine.GameObject:SetActive(GameObject, Boolean)
+BasePanle:Show() (at Assets/Script/UI/Panle/BasePanle.cs:21)
+PanleManage:ShowPanle(String) (at Assets/Script/Manage/PanleManage.cs:49)
+GameMain:Update() (at Assets/Script/GameMain.cs:79)
+
+
+
+2023-02-23-05-12-37:NullReferenceException: Object reference not set to an instance of an object
+ShopItemUI.showItem () (at Assets/Script/UI/Shop/ShopItemUI.cs:32)
+ShopItemUI.setItem (Item item) (at Assets/Script/UI/Shop/ShopItemUI.cs:27)
+ShopManage.CreateItem () (at Assets/Script/UI/Shop/ShopManage.cs:28)
+ShopManage.OnEnable () (at Assets/Script/UI/Shop/ShopManage.cs:20)
+UnityEngine.GameObject:SetActive(GameObject, Boolean)
+BasePanle:Show() (at Assets/Script/UI/Panle/BasePanle.cs:21)
+PanleManage:ShowPanle(String) (at Assets/Script/Manage/PanleManage.cs:49)
+GameMain:Update() (at Assets/Script/GameMain.cs:79)
+
+
+
+2023-02-23-05-20-32:NullReferenceException: Object reference not set to an instance of an object
+ShopItemUI.showItem () (at Assets/Script/UI/Shop/ShopItemUI.cs:32)
+ShopItemUI.setItem (Item item) (at Assets/Script/UI/Shop/ShopItemUI.cs:27)
+ShopManage.CreateItem () (at Assets/Script/UI/Shop/ShopManage.cs:28)
+ShopManage.OnEnable () (at Assets/Script/UI/Shop/ShopManage.cs:20)
+UnityEngine.GameObject:SetActive(GameObject, Boolean)
+BasePanle:Show() (at Assets/Script/UI/Panle/BasePanle.cs:21)
+PanleManage:ShowPanle(String) (at Assets/Script/Manage/PanleManage.cs:49)
+GameMain:Update() (at Assets/Script/GameMain.cs:79)
+
+
+
+2023-02-23-05-27-07:InvalidOperationException: Queue empty.
+System.Collections.Generic.Queue`1[T].Dequeue () (at <75633565436c42f0a6426b33f0132ade>:0)
+ShortcutBarManage.AddItem (System.String name) (at Assets/Script/UI/Knapsack/ShortcutBarManage.cs:53)
+EventCenter.Trigger[T] (System.String name, T info) (at Assets/Script/EventManage/EventCenter.cs:62)
+ShopItemUI.<showItem>b__8_0 () (at Assets/Script/UI/Shop/ShopItemUI.cs:42)
+UnityEngine.Events.InvokableCall.Invoke () (at <3be3d9b82c27410eb233ad293f1586e7>:0)
+UnityEngine.Events.UnityEvent.Invoke () (at <3be3d9b82c27410eb233ad293f1586e7>:0)
+UnityEngine.UI.Button.Press () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/UI/Core/Button.cs:70)
+UnityEngine.UI.Button.OnPointerClick (UnityEngine.EventSystems.PointerEventData eventData) (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/UI/Core/Button.cs:114)
+UnityEngine.EventSystems.ExecuteEvents.Execute (UnityEngine.EventSystems.IPointerClickHandler handler, UnityEngine.EventSystems.BaseEventData eventData) (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/ExecuteEvents.cs:57)
+UnityEngine.EventSystems.ExecuteEvents.Execute[T] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.ExecuteEvents+EventFunction`1[T1] functor) (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/ExecuteEvents.cs:272)
+UnityEngine.EventSystems.EventSystem:Update() (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:501)
+
+
+
+2023-02-23-05-27-11:InvalidOperationException: Queue empty.
+System.Collections.Generic.Queue`1[T].Dequeue () (at <75633565436c42f0a6426b33f0132ade>:0)
+ShortcutBarManage.AddItem (System.String name) (at Assets/Script/UI/Knapsack/ShortcutBarManage.cs:53)
+EventCenter.Trigger[T] (System.String name, T info) (at Assets/Script/EventManage/EventCenter.cs:62)
+ShopItemUI.<showItem>b__8_0 () (at Assets/Script/UI/Shop/ShopItemUI.cs:42)
+UnityEngine.Events.InvokableCall.Invoke () (at <3be3d9b82c27410eb233ad293f1586e7>:0)
+UnityEngine.Events.UnityEvent.Invoke () (at <3be3d9b82c27410eb233ad293f1586e7>:0)
+UnityEngine.UI.Button.Press () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/UI/Core/Button.cs:70)
+UnityEngine.UI.Button.OnPointerClick (UnityEngine.EventSystems.PointerEventData eventData) (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/UI/Core/Button.cs:114)
+UnityEngine.EventSystems.ExecuteEvents.Execute (UnityEngine.EventSystems.IPointerClickHandler handler, UnityEngine.EventSystems.BaseEventData eventData) (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/ExecuteEvents.cs:57)
+UnityEngine.EventSystems.ExecuteEvents.Execute[T] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.ExecuteEvents+EventFunction`1[T1] functor) (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/ExecuteEvents.cs:272)
+UnityEngine.EventSystems.EventSystem:Update() (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:501)
+
+
+
+2023-02-23-05-30-25:NullReferenceException: Object reference not set to an instance of an object
+ShopItemUI.showItem () (at Assets/Script/UI/Shop/ShopItemUI.cs:32)
+ShopItemUI.setItem (Item item) (at Assets/Script/UI/Shop/ShopItemUI.cs:27)
+ShopManage.CreateItem () (at Assets/Script/UI/Shop/ShopManage.cs:28)
+ShopManage.OnEnable () (at Assets/Script/UI/Shop/ShopManage.cs:20)
+UnityEngine.GameObject:SetActive(GameObject, Boolean)
+BasePanle:Show() (at Assets/Script/UI/Panle/BasePanle.cs:21)
+PanleManage:ShowPanle(String) (at Assets/Script/Manage/PanleManage.cs:49)
+GameMain:Update() (at Assets/Script/GameMain.cs:79)
+
+
+
+2023-02-23-05-33-18:NullReferenceException: Object reference not set to an instance of an object
+GunManage.UpgradeBullet (System.String BulletName) (at Assets/Script/WeaponSystem/Gun/GunManage.cs:48)
+EventCenter.Trigger[T] (System.String name, T info) (at Assets/Script/EventManage/EventCenter.cs:62)
+Equipment.use () (at Assets/Script/UI/Knapsack/Item/Equipment.cs:20)
+ItemUI.UseItem () (at Assets/Script/UI/Knapsack/ItemUI.cs:40)
+ShortcutBarManage.BindKeys () (at Assets/Script/UI/Knapsack/ShortcutBarManage.cs:79)
+ShortcutBarManage.Update () (at Assets/Script/UI/Knapsack/ShortcutBarManage.cs:36)
+
+
+
+2023-02-23-05-34-13:NullReferenceException: Object reference not set to an instance of an object
+ShopItemUI.showItem () (at Assets/Script/UI/Shop/ShopItemUI.cs:32)
+ShopItemUI.setItem (Item item) (at Assets/Script/UI/Shop/ShopItemUI.cs:27)
+ShopManage.CreateItem () (at Assets/Script/UI/Shop/ShopManage.cs:28)
+ShopManage.OnEnable () (at Assets/Script/UI/Shop/ShopManage.cs:20)
+UnityEngine.GameObject:SetActive(GameObject, Boolean)
+BasePanle:Show() (at Assets/Script/UI/Panle/BasePanle.cs:21)
+PanleManage:ShowPanle(String) (at Assets/Script/Manage/PanleManage.cs:49)
+GameMain:Update() (at Assets/Script/GameMain.cs:79)
+
+
+
+2023-02-23-06-49-00:NullReferenceException: Object reference not set to an instance of an object
+ShopItemUI.showItem () (at Assets/Script/UI/Shop/ShopItemUI.cs:32)
+ShopItemUI.setItem (Item item) (at Assets/Script/UI/Shop/ShopItemUI.cs:27)
+ShopManage.CreateItem () (at Assets/Script/UI/Shop/ShopManage.cs:27)
+ShopManage.OnEnable () (at Assets/Script/UI/Shop/ShopManage.cs:19)
+UnityEngine.GameObject:SetActive(GameObject, Boolean)
+BasePanle:Show() (at Assets/Script/UI/Panle/BasePanle.cs:9)
+PanleManage:ShowPanle(String) (at Assets/Script/Manage/PanleManage.cs:49)
+GameMain:Update() (at Assets/Script/GameMain.cs:79)
+
+
+
+2023-02-23-06-49-26:NullReferenceException: Object reference not set to an instance of an object
+ShopItemUI.showItem () (at Assets/Script/UI/Shop/ShopItemUI.cs:32)
+ShopItemUI.setItem (Item item) (at Assets/Script/UI/Shop/ShopItemUI.cs:27)
+ShopManage.CreateItem () (at Assets/Script/UI/Shop/ShopManage.cs:27)
+ShopManage.OnEnable () (at Assets/Script/UI/Shop/ShopManage.cs:19)
+UnityEngine.GameObject:SetActive(GameObject, Boolean)
+BasePanle:Show() (at Assets/Script/UI/Panle/BasePanle.cs:9)
+PanleManage:ShowPanle(String) (at Assets/Script/Manage/PanleManage.cs:49)
+GameMain:Update() (at Assets/Script/GameMain.cs:79)
+
+
+
+2023-02-23-07-04-21:NullReferenceException: Object reference not set to an instance of an object
+ShopItemUI.showItem () (at Assets/Script/UI/Shop/ShopItemUI.cs:44)
+ShopItemUI.setItem (Item item) (at Assets/Script/UI/Shop/ShopItemUI.cs:39)
+ShopManage.CreateItem () (at Assets/Script/UI/Shop/ShopManage.cs:27)
+ShopManage.OnEnable () (at Assets/Script/UI/Shop/ShopManage.cs:19)
+UnityEngine.GameObject:SetActive(GameObject, Boolean)
+BasePanle:Show() (at Assets/Script/UI/Panle/BasePanle.cs:9)
+PanleManage:ShowPanle(String) (at Assets/Script/Manage/PanleManage.cs:49)
+GameMain:Update() (at Assets/Script/GameMain.cs:79)
+
+
+
+2023-02-23-08-26-51:InvalidOperationException: Queue empty.
+System.Collections.Generic.Queue`1[T].Dequeue () (at <75633565436c42f0a6426b33f0132ade>:0)
+ShortcutBarManage.AddItem (System.String name) (at Assets/Script/UI/Knapsack/ShortcutBarManage.cs:53)
+EventCenter.Trigger[T] (System.String name, T info) (at Assets/Script/EventManage/EventCenter.cs:62)
+ShopItemUI.<Awake>b__6_0 () (at Assets/Script/UI/Shop/ShopItemUI.cs:25)
+UnityEngine.Events.InvokableCall.Invoke () (at <3be3d9b82c27410eb233ad293f1586e7>:0)
+UnityEngine.Events.UnityEvent.Invoke () (at <3be3d9b82c27410eb233ad293f1586e7>:0)
+UnityEngine.UI.Button.Press () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/UI/Core/Button.cs:70)
+UnityEngine.UI.Button.OnPointerClick (UnityEngine.EventSystems.PointerEventData eventData) (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/UI/Core/Button.cs:114)
+UnityEngine.EventSystems.ExecuteEvents.Execute (UnityEngine.EventSystems.IPointerClickHandler handler, UnityEngine.EventSystems.BaseEventData eventData) (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/ExecuteEvents.cs:57)
+UnityEngine.EventSystems.ExecuteEvents.Execute[T] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.ExecuteEvents+EventFunction`1[T1] functor) (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/ExecuteEvents.cs:272)
+UnityEngine.EventSystems.EventSystem:Update() (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:501)
+
+

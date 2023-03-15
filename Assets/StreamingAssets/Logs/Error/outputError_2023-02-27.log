@@ -1,0 +1,24 @@
+
+2023-02-27-05-51-07:KeyNotFoundException: The given key 'Pistor' was not present in the dictionary.
+System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) (at <9aad1b3a47484d63ba2b3985692d80e9>:0)
+ShortcutBarManage.AddItem (System.String name) (at Assets/Script/UI/Knapsack/ShortcutBarManage.cs:57)
+EventCenter.Trigger[T] (System.String name, T info) (at Assets/Script/EventManage/EventCenter.cs:62)
+ShopItemUI.<Awake>b__6_0 () (at Assets/Script/UI/Shop/ShopItemUI.cs:21)
+UnityEngine.Events.InvokableCall.Invoke () (at <86acb61e0d2b4b36bc20af11093be9a5>:0)
+UnityEngine.Events.UnityEvent.Invoke () (at <86acb61e0d2b4b36bc20af11093be9a5>:0)
+UnityEngine.UI.Button.Press () (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/UI/Core/Button.cs:70)
+UnityEngine.UI.Button.OnPointerClick (UnityEngine.EventSystems.PointerEventData eventData) (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/UI/Core/Button.cs:114)
+UnityEngine.EventSystems.ExecuteEvents.Execute (UnityEngine.EventSystems.IPointerClickHandler handler, UnityEngine.EventSystems.BaseEventData eventData) (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/ExecuteEvents.cs:57)
+UnityEngine.EventSystems.ExecuteEvents.Execute[T] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.ExecuteEvents+EventFunction`1[T1] functor) (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/ExecuteEvents.cs:272)
+UnityEngine.EventSystems.EventSystem:Update() (at Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/EventSystem.cs:501)
+
+
+
+2023-02-27-06-54-19:KeyNotFoundException: The given key 'Pistot' was not present in the dictionary.
+System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) (at <9aad1b3a47484d63ba2b3985692d80e9>:0)
+ItemManage.getItemByName (System.String name) (at Assets/Script/UI/Knapsack/ItemManage.cs:20)
+ShortcutBarManage.AddItem (System.String name) (at Assets/Script/UI/Knapsack/ShortcutBarManage.cs:56)
+EventCenter.Trigger[T] (System.String name, T info) (at Assets/Script/EventManage/EventCenter.cs:62)
+InitGun.OnTriggerEnter2D (UnityEngine.Collider2D other) (at Assets/Script/InitGun.cs:10)
+
+

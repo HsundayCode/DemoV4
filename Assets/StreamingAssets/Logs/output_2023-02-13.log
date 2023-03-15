@@ -1,0 +1,564 @@
+
+2023-02-13-04-02-17:KeyNotFoundException: The given key 'Hp药剂' was not present in the dictionary.
+System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) (at <75633565436c42f0a6426b33f0132ade>:0)
+ItemManage.getItemByName (System.String name) (at Assets/Script/UI/Knapsack/ItemManage.cs:20)
+ShortcutBarManage.AddItem (System.String name) (at Assets/Script/UI/Knapsack/ShortcutBarManage.cs:37)
+EventCenter.Trigger[T] (System.String name, T info) (at Assets/Script/EventManage/EventCenter.cs:59)
+GameMain.Update () (at Assets/Script/GameMain.cs:35)
+
+
+
+2023-02-13-04-02-17:进入Run
+UnityEngine.Debug:Log (object)
+EnemyFSM:ChangeState (State) (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:106)
+IdelState:OnUpdate () (at Assets/Script/EnemyStateFSM/IdelState.cs:25)
+EnemyFSM:Update () (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:88)
+
+
+
+2023-02-13-04-02-17:发现目标
+UnityEngine.Debug:Log (object)
+IdelState:OnExit () (at Assets/Script/EnemyStateFSM/IdelState.cs:35)
+EnemyFSM:ChangeState (State) (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:107)
+IdelState:OnUpdate () (at Assets/Script/EnemyStateFSM/IdelState.cs:25)
+EnemyFSM:Update () (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:88)
+
+
+
+2023-02-13-04-02-19:进入Run
+UnityEngine.Debug:Log (object)
+EnemyFSM:ChangeState (State) (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:106)
+IdelState:OnUpdate () (at Assets/Script/EnemyStateFSM/IdelState.cs:25)
+EnemyFSM:Update () (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:88)
+
+
+
+2023-02-13-04-02-19:发现目标
+UnityEngine.Debug:Log (object)
+IdelState:OnExit () (at Assets/Script/EnemyStateFSM/IdelState.cs:35)
+EnemyFSM:ChangeState (State) (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:107)
+IdelState:OnUpdate () (at Assets/Script/EnemyStateFSM/IdelState.cs:25)
+EnemyFSM:Update () (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:88)
+
+
+
+2023-02-13-04-02-21:进入Attack
+UnityEngine.Debug:Log (object)
+EnemyFSM:ChangeState (State) (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:106)
+RunState:OnUpdate () (at Assets/Script/EnemyStateFSM/RunState.cs:27)
+EnemyFSM:Update () (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:88)
+
+
+
+2023-02-13-04-02-21:退出追击
+UnityEngine.Debug:Log (object)
+RunState:OnExit () (at Assets/Script/EnemyStateFSM/RunState.cs:41)
+EnemyFSM:ChangeState (State) (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:107)
+RunState:OnUpdate () (at Assets/Script/EnemyStateFSM/RunState.cs:27)
+EnemyFSM:Update () (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:88)
+
+
+
+2023-02-13-04-02-21:进入Run
+UnityEngine.Debug:Log (object)
+EnemyFSM:ChangeState (State) (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:106)
+IdelState:OnUpdate () (at Assets/Script/EnemyStateFSM/IdelState.cs:25)
+EnemyFSM:Update () (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:88)
+
+
+
+2023-02-13-04-02-21:发现目标
+UnityEngine.Debug:Log (object)
+IdelState:OnExit () (at Assets/Script/EnemyStateFSM/IdelState.cs:35)
+EnemyFSM:ChangeState (State) (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:107)
+IdelState:OnUpdate () (at Assets/Script/EnemyStateFSM/IdelState.cs:25)
+EnemyFSM:Update () (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:88)
+
+
+
+2023-02-13-04-02-22:当前血量500
+UnityEngine.Debug:Log (object)
+Player:HPchange (int) (at Assets/Script/Player.cs:162)
+EventCenter:Trigger<int> (string,int) (at Assets/Script/EventManage/EventCenter.cs:59)
+AttackBox:OnTriggerEnter2D (UnityEngine.Collider2D) (at Assets/Script/EnemyStateFSM/AttackBox.cs:29)
+
+
+
+2023-02-13-04-02-22:当前血量480
+UnityEngine.Debug:Log (object)
+Player:HPchange (int) (at Assets/Script/Player.cs:162)
+EventCenter:Trigger<int> (string,int) (at Assets/Script/EventManage/EventCenter.cs:59)
+AttackBox:OnTriggerEnter2D (UnityEngine.Collider2D) (at Assets/Script/EnemyStateFSM/AttackBox.cs:29)
+
+
+
+2023-02-13-04-02-23:当前血量460
+UnityEngine.Debug:Log (object)
+Player:HPchange (int) (at Assets/Script/Player.cs:162)
+EventCenter:Trigger<int> (string,int) (at Assets/Script/EventManage/EventCenter.cs:59)
+AttackBox:OnTriggerEnter2D (UnityEngine.Collider2D) (at Assets/Script/EnemyStateFSM/AttackBox.cs:29)
+
+
+
+2023-02-13-04-02-23:NullReferenceException: Object reference not set to an instance of an object
+ShortcutBarManage.BindKeys () (at Assets/Script/UI/Knapsack/ShortcutBarManage.cs:44)
+ShortcutBarManage.Update () (at Assets/Script/UI/Knapsack/ShortcutBarManage.cs:25)
+
+
+
+2023-02-13-04-02-23:进入Attack
+UnityEngine.Debug:Log (object)
+EnemyFSM:ChangeState (State) (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:106)
+RunState:OnUpdate () (at Assets/Script/EnemyStateFSM/RunState.cs:27)
+EnemyFSM:Update () (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:88)
+
+
+
+2023-02-13-04-02-23:退出追击
+UnityEngine.Debug:Log (object)
+RunState:OnExit () (at Assets/Script/EnemyStateFSM/RunState.cs:41)
+EnemyFSM:ChangeState (State) (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:107)
+RunState:OnUpdate () (at Assets/Script/EnemyStateFSM/RunState.cs:27)
+EnemyFSM:Update () (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:88)
+
+
+
+2023-02-13-04-02-23:进入Run
+UnityEngine.Debug:Log (object)
+EnemyFSM:ChangeState (State) (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:106)
+IdelState:OnUpdate () (at Assets/Script/EnemyStateFSM/IdelState.cs:25)
+EnemyFSM:Update () (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:88)
+
+
+
+2023-02-13-04-02-23:发现目标
+UnityEngine.Debug:Log (object)
+IdelState:OnExit () (at Assets/Script/EnemyStateFSM/IdelState.cs:35)
+EnemyFSM:ChangeState (State) (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:107)
+IdelState:OnUpdate () (at Assets/Script/EnemyStateFSM/IdelState.cs:25)
+EnemyFSM:Update () (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:88)
+
+
+
+2023-02-13-04-02-24:当前血量440
+UnityEngine.Debug:Log (object)
+Player:HPchange (int) (at Assets/Script/Player.cs:162)
+EventCenter:Trigger<int> (string,int) (at Assets/Script/EventManage/EventCenter.cs:59)
+AttackBox:OnTriggerEnter2D (UnityEngine.Collider2D) (at Assets/Script/EnemyStateFSM/AttackBox.cs:29)
+
+
+
+2023-02-13-04-02-24:当前血量420
+UnityEngine.Debug:Log (object)
+Player:HPchange (int) (at Assets/Script/Player.cs:162)
+EventCenter:Trigger<int> (string,int) (at Assets/Script/EventManage/EventCenter.cs:59)
+AttackBox:OnTriggerEnter2D (UnityEngine.Collider2D) (at Assets/Script/EnemyStateFSM/AttackBox.cs:29)
+
+
+
+2023-02-13-04-02-24:当前血量400
+UnityEngine.Debug:Log (object)
+Player:HPchange (int) (at Assets/Script/Player.cs:162)
+EventCenter:Trigger<int> (string,int) (at Assets/Script/EventManage/EventCenter.cs:59)
+AttackBox:OnTriggerEnter2D (UnityEngine.Collider2D) (at Assets/Script/EnemyStateFSM/AttackBox.cs:29)
+
+
+
+2023-02-13-04-02-25:当前血量380
+UnityEngine.Debug:Log (object)
+Player:HPchange (int) (at Assets/Script/Player.cs:162)
+EventCenter:Trigger<int> (string,int) (at Assets/Script/EventManage/EventCenter.cs:59)
+AttackBox:OnTriggerEnter2D (UnityEngine.Collider2D) (at Assets/Script/EnemyStateFSM/AttackBox.cs:29)
+
+
+
+2023-02-13-04-16-47:进入Run
+UnityEngine.Debug:Log (object)
+EnemyFSM:ChangeState (State) (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:106)
+IdelState:OnUpdate () (at Assets/Script/EnemyStateFSM/IdelState.cs:25)
+EnemyFSM:Update () (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:88)
+
+
+
+2023-02-13-04-16-47:发现目标
+UnityEngine.Debug:Log (object)
+IdelState:OnExit () (at Assets/Script/EnemyStateFSM/IdelState.cs:35)
+EnemyFSM:ChangeState (State) (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:107)
+IdelState:OnUpdate () (at Assets/Script/EnemyStateFSM/IdelState.cs:25)
+EnemyFSM:Update () (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:88)
+
+
+
+2023-02-13-04-16-48:获得：Hp药剂
+UnityEngine.Debug:Log (object)
+ShortcutBarManage:AddItem (string) (at Assets/Script/UI/Knapsack/ShortcutBarManage.cs:38)
+EventCenter:Trigger<string> (string,string) (at Assets/Script/EventManage/EventCenter.cs:59)
+GameMain:Update () (at Assets/Script/GameMain.cs:36)
+
+
+
+2023-02-13-04-16-48:ItemUIPrefab(Clone)
+UnityEngine.Debug:Log (object)
+ItemUI:UseItem () (at Assets/Script/UI/Knapsack/ItemUI.cs:41)
+ShortcutBarManage:BindKeys () (at Assets/Script/UI/Knapsack/ShortcutBarManage.cs:46)
+ShortcutBarManage:Update () (at Assets/Script/UI/Knapsack/ShortcutBarManage.cs:27)
+
+
+
+2023-02-13-04-16-48:消耗品子类
+UnityEngine.Debug:Log (object)
+Consumable:use () (at Assets/Script/UI/Knapsack/Item/Consumable.cs:23)
+ItemUI:UseItem () (at Assets/Script/UI/Knapsack/ItemUI.cs:45)
+ShortcutBarManage:BindKeys () (at Assets/Script/UI/Knapsack/ShortcutBarManage.cs:46)
+ShortcutBarManage:Update () (at Assets/Script/UI/Knapsack/ShortcutBarManage.cs:27)
+
+
+
+2023-02-13-04-16-48:当前血量500
+UnityEngine.Debug:Log (object)
+Player:HPchange (int) (at Assets/Script/Player.cs:162)
+EventCenter:Trigger<int> (string,int) (at Assets/Script/EventManage/EventCenter.cs:59)
+Consumable:use () (at Assets/Script/UI/Knapsack/Item/Consumable.cs:24)
+ItemUI:UseItem () (at Assets/Script/UI/Knapsack/ItemUI.cs:45)
+ShortcutBarManage:BindKeys () (at Assets/Script/UI/Knapsack/ShortcutBarManage.cs:46)
+ShortcutBarManage:Update () (at Assets/Script/UI/Knapsack/ShortcutBarManage.cs:27)
+
+
+
+2023-02-13-04-16-48:1
+UnityEngine.Debug:Log (object)
+ShortcutBarManage:BindKeys () (at Assets/Script/UI/Knapsack/ShortcutBarManage.cs:47)
+ShortcutBarManage:Update () (at Assets/Script/UI/Knapsack/ShortcutBarManage.cs:27)
+
+
+
+2023-02-13-04-16-49:进入Run
+UnityEngine.Debug:Log (object)
+EnemyFSM:ChangeState (State) (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:106)
+IdelState:OnUpdate () (at Assets/Script/EnemyStateFSM/IdelState.cs:25)
+EnemyFSM:Update () (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:88)
+
+
+
+2023-02-13-04-16-49:发现目标
+UnityEngine.Debug:Log (object)
+IdelState:OnExit () (at Assets/Script/EnemyStateFSM/IdelState.cs:35)
+EnemyFSM:ChangeState (State) (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:107)
+IdelState:OnUpdate () (at Assets/Script/EnemyStateFSM/IdelState.cs:25)
+EnemyFSM:Update () (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:88)
+
+
+
+2023-02-13-04-16-51:进入Attack
+UnityEngine.Debug:Log (object)
+EnemyFSM:ChangeState (State) (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:106)
+RunState:OnUpdate () (at Assets/Script/EnemyStateFSM/RunState.cs:27)
+EnemyFSM:Update () (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:88)
+
+
+
+2023-02-13-04-16-51:退出追击
+UnityEngine.Debug:Log (object)
+RunState:OnExit () (at Assets/Script/EnemyStateFSM/RunState.cs:41)
+EnemyFSM:ChangeState (State) (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:107)
+RunState:OnUpdate () (at Assets/Script/EnemyStateFSM/RunState.cs:27)
+EnemyFSM:Update () (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:88)
+
+
+
+2023-02-13-04-16-51:进入Run
+UnityEngine.Debug:Log (object)
+EnemyFSM:ChangeState (State) (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:106)
+IdelState:OnUpdate () (at Assets/Script/EnemyStateFSM/IdelState.cs:25)
+EnemyFSM:Update () (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:88)
+
+
+
+2023-02-13-04-16-51:发现目标
+UnityEngine.Debug:Log (object)
+IdelState:OnExit () (at Assets/Script/EnemyStateFSM/IdelState.cs:35)
+EnemyFSM:ChangeState (State) (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:107)
+IdelState:OnUpdate () (at Assets/Script/EnemyStateFSM/IdelState.cs:25)
+EnemyFSM:Update () (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:88)
+
+
+
+2023-02-13-04-16-52:当前血量550
+UnityEngine.Debug:Log (object)
+Player:HPchange (int) (at Assets/Script/Player.cs:162)
+EventCenter:Trigger<int> (string,int) (at Assets/Script/EventManage/EventCenter.cs:59)
+AttackBox:OnTriggerEnter2D (UnityEngine.Collider2D) (at Assets/Script/EnemyStateFSM/AttackBox.cs:29)
+
+
+
+2023-02-13-04-16-52:当前血量530
+UnityEngine.Debug:Log (object)
+Player:HPchange (int) (at Assets/Script/Player.cs:162)
+EventCenter:Trigger<int> (string,int) (at Assets/Script/EventManage/EventCenter.cs:59)
+AttackBox:OnTriggerEnter2D (UnityEngine.Collider2D) (at Assets/Script/EnemyStateFSM/AttackBox.cs:29)
+
+
+
+2023-02-13-04-16-53:当前血量510
+UnityEngine.Debug:Log (object)
+Player:HPchange (int) (at Assets/Script/Player.cs:162)
+EventCenter:Trigger<int> (string,int) (at Assets/Script/EventManage/EventCenter.cs:59)
+AttackBox:OnTriggerEnter2D (UnityEngine.Collider2D) (at Assets/Script/EnemyStateFSM/AttackBox.cs:29)
+
+
+
+2023-02-13-04-16-53:进入Attack
+UnityEngine.Debug:Log (object)
+EnemyFSM:ChangeState (State) (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:106)
+RunState:OnUpdate () (at Assets/Script/EnemyStateFSM/RunState.cs:27)
+EnemyFSM:Update () (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:88)
+
+
+
+2023-02-13-04-16-53:退出追击
+UnityEngine.Debug:Log (object)
+RunState:OnExit () (at Assets/Script/EnemyStateFSM/RunState.cs:41)
+EnemyFSM:ChangeState (State) (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:107)
+RunState:OnUpdate () (at Assets/Script/EnemyStateFSM/RunState.cs:27)
+EnemyFSM:Update () (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:88)
+
+
+
+2023-02-13-04-16-53:进入Run
+UnityEngine.Debug:Log (object)
+EnemyFSM:ChangeState (State) (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:106)
+IdelState:OnUpdate () (at Assets/Script/EnemyStateFSM/IdelState.cs:25)
+EnemyFSM:Update () (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:88)
+
+
+
+2023-02-13-04-16-53:发现目标
+UnityEngine.Debug:Log (object)
+IdelState:OnExit () (at Assets/Script/EnemyStateFSM/IdelState.cs:35)
+EnemyFSM:ChangeState (State) (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:107)
+IdelState:OnUpdate () (at Assets/Script/EnemyStateFSM/IdelState.cs:25)
+EnemyFSM:Update () (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:88)
+
+
+
+2023-02-13-04-16-54:当前血量490
+UnityEngine.Debug:Log (object)
+Player:HPchange (int) (at Assets/Script/Player.cs:162)
+EventCenter:Trigger<int> (string,int) (at Assets/Script/EventManage/EventCenter.cs:59)
+AttackBox:OnTriggerEnter2D (UnityEngine.Collider2D) (at Assets/Script/EnemyStateFSM/AttackBox.cs:29)
+
+
+
+2023-02-13-04-16-54:当前血量470
+UnityEngine.Debug:Log (object)
+Player:HPchange (int) (at Assets/Script/Player.cs:162)
+EventCenter:Trigger<int> (string,int) (at Assets/Script/EventManage/EventCenter.cs:59)
+AttackBox:OnTriggerEnter2D (UnityEngine.Collider2D) (at Assets/Script/EnemyStateFSM/AttackBox.cs:29)
+
+
+
+2023-02-13-04-16-54:当前血量450
+UnityEngine.Debug:Log (object)
+Player:HPchange (int) (at Assets/Script/Player.cs:162)
+EventCenter:Trigger<int> (string,int) (at Assets/Script/EventManage/EventCenter.cs:59)
+AttackBox:OnTriggerEnter2D (UnityEngine.Collider2D) (at Assets/Script/EnemyStateFSM/AttackBox.cs:29)
+
+
+
+2023-02-13-04-16-54:当前血量430
+UnityEngine.Debug:Log (object)
+Player:HPchange (int) (at Assets/Script/Player.cs:162)
+EventCenter:Trigger<int> (string,int) (at Assets/Script/EventManage/EventCenter.cs:59)
+AttackBox:OnTriggerEnter2D (UnityEngine.Collider2D) (at Assets/Script/EnemyStateFSM/AttackBox.cs:29)
+
+
+
+2023-02-13-04-16-55:当前血量410
+UnityEngine.Debug:Log (object)
+Player:HPchange (int) (at Assets/Script/Player.cs:162)
+EventCenter:Trigger<int> (string,int) (at Assets/Script/EventManage/EventCenter.cs:59)
+AttackBox:OnTriggerEnter2D (UnityEngine.Collider2D) (at Assets/Script/EnemyStateFSM/AttackBox.cs:29)
+
+
+
+2023-02-13-04-16-55:进入Attack
+UnityEngine.Debug:Log (object)
+EnemyFSM:ChangeState (State) (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:106)
+RunState:OnUpdate () (at Assets/Script/EnemyStateFSM/RunState.cs:27)
+EnemyFSM:Update () (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:88)
+
+
+
+2023-02-13-04-16-55:退出追击
+UnityEngine.Debug:Log (object)
+RunState:OnExit () (at Assets/Script/EnemyStateFSM/RunState.cs:41)
+EnemyFSM:ChangeState (State) (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:107)
+RunState:OnUpdate () (at Assets/Script/EnemyStateFSM/RunState.cs:27)
+EnemyFSM:Update () (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:88)
+
+
+
+2023-02-13-04-16-55:当前血量390
+UnityEngine.Debug:Log (object)
+Player:HPchange (int) (at Assets/Script/Player.cs:162)
+EventCenter:Trigger<int> (string,int) (at Assets/Script/EventManage/EventCenter.cs:59)
+AttackBox:OnTriggerEnter2D (UnityEngine.Collider2D) (at Assets/Script/EnemyStateFSM/AttackBox.cs:29)
+
+
+
+2023-02-13-04-16-55:进入Run
+UnityEngine.Debug:Log (object)
+EnemyFSM:ChangeState (State) (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:106)
+IdelState:OnUpdate () (at Assets/Script/EnemyStateFSM/IdelState.cs:25)
+EnemyFSM:Update () (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:88)
+
+
+
+2023-02-13-04-16-55:发现目标
+UnityEngine.Debug:Log (object)
+IdelState:OnExit () (at Assets/Script/EnemyStateFSM/IdelState.cs:35)
+EnemyFSM:ChangeState (State) (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:107)
+IdelState:OnUpdate () (at Assets/Script/EnemyStateFSM/IdelState.cs:25)
+EnemyFSM:Update () (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:88)
+
+
+
+2023-02-13-04-16-56:当前血量370
+UnityEngine.Debug:Log (object)
+Player:HPchange (int) (at Assets/Script/Player.cs:162)
+EventCenter:Trigger<int> (string,int) (at Assets/Script/EventManage/EventCenter.cs:59)
+AttackBox:OnTriggerEnter2D (UnityEngine.Collider2D) (at Assets/Script/EnemyStateFSM/AttackBox.cs:29)
+
+
+
+2023-02-13-04-16-56:当前血量350
+UnityEngine.Debug:Log (object)
+Player:HPchange (int) (at Assets/Script/Player.cs:162)
+EventCenter:Trigger<int> (string,int) (at Assets/Script/EventManage/EventCenter.cs:59)
+AttackBox:OnTriggerEnter2D (UnityEngine.Collider2D) (at Assets/Script/EnemyStateFSM/AttackBox.cs:29)
+
+
+
+2023-02-13-04-16-56:当前血量330
+UnityEngine.Debug:Log (object)
+Player:HPchange (int) (at Assets/Script/Player.cs:162)
+EventCenter:Trigger<int> (string,int) (at Assets/Script/EventManage/EventCenter.cs:59)
+AttackBox:OnTriggerEnter2D (UnityEngine.Collider2D) (at Assets/Script/EnemyStateFSM/AttackBox.cs:29)
+
+
+
+2023-02-13-04-16-56:当前血量310
+UnityEngine.Debug:Log (object)
+Player:HPchange (int) (at Assets/Script/Player.cs:162)
+EventCenter:Trigger<int> (string,int) (at Assets/Script/EventManage/EventCenter.cs:59)
+AttackBox:OnTriggerEnter2D (UnityEngine.Collider2D) (at Assets/Script/EnemyStateFSM/AttackBox.cs:29)
+
+
+
+2023-02-13-04-16-56:当前血量290
+UnityEngine.Debug:Log (object)
+Player:HPchange (int) (at Assets/Script/Player.cs:162)
+EventCenter:Trigger<int> (string,int) (at Assets/Script/EventManage/EventCenter.cs:59)
+AttackBox:OnTriggerEnter2D (UnityEngine.Collider2D) (at Assets/Script/EnemyStateFSM/AttackBox.cs:29)
+
+
+
+2023-02-13-04-16-57:当前血量270
+UnityEngine.Debug:Log (object)
+Player:HPchange (int) (at Assets/Script/Player.cs:162)
+EventCenter:Trigger<int> (string,int) (at Assets/Script/EventManage/EventCenter.cs:59)
+AttackBox:OnTriggerEnter2D (UnityEngine.Collider2D) (at Assets/Script/EnemyStateFSM/AttackBox.cs:29)
+
+
+
+2023-02-13-04-16-57:进入下一关
+UnityEngine.Debug:Log (object)
+GameMain:Update () (at Assets/Script/GameMain.cs:65)
+
+
+
+2023-02-13-04-17-00:获得：Hp药剂
+UnityEngine.Debug:Log (object)
+ShortcutBarManage:AddItem (string) (at Assets/Script/UI/Knapsack/ShortcutBarManage.cs:38)
+EventCenter:Trigger<string> (string,string) (at Assets/Script/EventManage/EventCenter.cs:59)
+GameMain:Update () (at Assets/Script/GameMain.cs:36)
+
+
+
+2023-02-13-04-17-01:ItemUIPrefab(Clone)
+UnityEngine.Debug:Log (object)
+ItemUI:UseItem () (at Assets/Script/UI/Knapsack/ItemUI.cs:41)
+ShortcutBarManage:BindKeys () (at Assets/Script/UI/Knapsack/ShortcutBarManage.cs:46)
+ShortcutBarManage:Update () (at Assets/Script/UI/Knapsack/ShortcutBarManage.cs:27)
+
+
+
+2023-02-13-04-17-01:消耗品子类
+UnityEngine.Debug:Log (object)
+Consumable:use () (at Assets/Script/UI/Knapsack/Item/Consumable.cs:23)
+ItemUI:UseItem () (at Assets/Script/UI/Knapsack/ItemUI.cs:45)
+ShortcutBarManage:BindKeys () (at Assets/Script/UI/Knapsack/ShortcutBarManage.cs:46)
+ShortcutBarManage:Update () (at Assets/Script/UI/Knapsack/ShortcutBarManage.cs:27)
+
+
+
+2023-02-13-04-17-01:当前血量250
+UnityEngine.Debug:Log (object)
+Player:HPchange (int) (at Assets/Script/Player.cs:162)
+EventCenter:Trigger<int> (string,int) (at Assets/Script/EventManage/EventCenter.cs:59)
+Consumable:use () (at Assets/Script/UI/Knapsack/Item/Consumable.cs:24)
+ItemUI:UseItem () (at Assets/Script/UI/Knapsack/ItemUI.cs:45)
+ShortcutBarManage:BindKeys () (at Assets/Script/UI/Knapsack/ShortcutBarManage.cs:46)
+ShortcutBarManage:Update () (at Assets/Script/UI/Knapsack/ShortcutBarManage.cs:27)
+
+
+
+2023-02-13-04-17-01:1
+UnityEngine.Debug:Log (object)
+ShortcutBarManage:BindKeys () (at Assets/Script/UI/Knapsack/ShortcutBarManage.cs:47)
+ShortcutBarManage:Update () (at Assets/Script/UI/Knapsack/ShortcutBarManage.cs:27)
+
+
+
+2023-02-13-04-17-02:获得：Hp药剂
+UnityEngine.Debug:Log (object)
+ShortcutBarManage:AddItem (string) (at Assets/Script/UI/Knapsack/ShortcutBarManage.cs:38)
+EventCenter:Trigger<string> (string,string) (at Assets/Script/EventManage/EventCenter.cs:59)
+GameMain:Update () (at Assets/Script/GameMain.cs:36)
+
+
+
+2023-02-13-04-17-03:ItemUIPrefab(Clone)
+UnityEngine.Debug:Log (object)
+ItemUI:UseItem () (at Assets/Script/UI/Knapsack/ItemUI.cs:41)
+ShortcutBarManage:BindKeys () (at Assets/Script/UI/Knapsack/ShortcutBarManage.cs:46)
+ShortcutBarManage:Update () (at Assets/Script/UI/Knapsack/ShortcutBarManage.cs:27)
+
+
+
+2023-02-13-04-17-03:消耗品子类
+UnityEngine.Debug:Log (object)
+Consumable:use () (at Assets/Script/UI/Knapsack/Item/Consumable.cs:23)
+ItemUI:UseItem () (at Assets/Script/UI/Knapsack/ItemUI.cs:45)
+ShortcutBarManage:BindKeys () (at Assets/Script/UI/Knapsack/ShortcutBarManage.cs:46)
+ShortcutBarManage:Update () (at Assets/Script/UI/Knapsack/ShortcutBarManage.cs:27)
+
+
+
+2023-02-13-04-17-03:当前血量300
+UnityEngine.Debug:Log (object)
+Player:HPchange (int) (at Assets/Script/Player.cs:162)
+EventCenter:Trigger<int> (string,int) (at Assets/Script/EventManage/EventCenter.cs:59)
+Consumable:use () (at Assets/Script/UI/Knapsack/Item/Consumable.cs:24)
+ItemUI:UseItem () (at Assets/Script/UI/Knapsack/ItemUI.cs:45)
+ShortcutBarManage:BindKeys () (at Assets/Script/UI/Knapsack/ShortcutBarManage.cs:46)
+ShortcutBarManage:Update () (at Assets/Script/UI/Knapsack/ShortcutBarManage.cs:27)
+
+
+
+2023-02-13-04-17-03:1
+UnityEngine.Debug:Log (object)
+ShortcutBarManage:BindKeys () (at Assets/Script/UI/Knapsack/ShortcutBarManage.cs:47)
+ShortcutBarManage:Update () (at Assets/Script/UI/Knapsack/ShortcutBarManage.cs:27)
+
+

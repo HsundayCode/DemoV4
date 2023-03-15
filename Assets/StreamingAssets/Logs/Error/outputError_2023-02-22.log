@@ -1,0 +1,63 @@
+
+2023-02-22-04-03-11:KeyNotFoundException: The given key 'Sniping' was not present in the dictionary.
+System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) (at <75633565436c42f0a6426b33f0132ade>:0)
+ItemManage.getItemByName (System.String name) (at Assets/Script/UI/Knapsack/ItemManage.cs:20)
+ShortcutBarManage.AddItem (System.String name) (at Assets/Script/UI/Knapsack/ShortcutBarManage.cs:54)
+EventCenter.Trigger[T] (System.String name, T info) (at Assets/Script/EventManage/EventCenter.cs:62)
+GunManage.AddWeapon (System.String name) (at Assets/Script/WeaponSystem/Gun/GunManage.cs:65)
+EventCenter.Trigger[T] (System.String name, T info) (at Assets/Script/EventManage/EventCenter.cs:62)
+GameMain.Update () (at Assets/Script/GameMain.cs:40)
+
+
+
+2023-02-22-04-05-51:KeyNotFoundException: The given key 'Sniping' was not present in the dictionary.
+System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) (at <75633565436c42f0a6426b33f0132ade>:0)
+ItemManage.getItemByName (System.String name) (at Assets/Script/UI/Knapsack/ItemManage.cs:20)
+ShortcutBarManage.AddItem (System.String name) (at Assets/Script/UI/Knapsack/ShortcutBarManage.cs:54)
+EventCenter.Trigger[T] (System.String name, T info) (at Assets/Script/EventManage/EventCenter.cs:62)
+GunManage.AddWeapon (System.String name) (at Assets/Script/WeaponSystem/Gun/GunManage.cs:65)
+EventCenter.Trigger[T] (System.String name, T info) (at Assets/Script/EventManage/EventCenter.cs:62)
+GameMain.Update () (at Assets/Script/GameMain.cs:40)
+
+
+
+2023-02-22-04-09-35:KeyNotFoundException: The given key '44' was not present in the dictionary.
+System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) (at <75633565436c42f0a6426b33f0132ade>:0)
+LitJson.JsonReader.Read () (at Assets/Script/Tools/LitJson/JsonReader.cs:462)
+Rethrow as JsonException: Invalid token '44' in input string
+LitJson.JsonReader.Read () (at Assets/Script/Tools/LitJson/JsonReader.cs:466)
+LitJson.JsonMapper.ReadValue (LitJson.WrapperFactory factory, LitJson.JsonReader reader) (at Assets/Script/Tools/LitJson/JsonMapper.cs:491)
+LitJson.JsonMapper.ReadValue (LitJson.WrapperFactory factory, LitJson.JsonReader reader) (at Assets/Script/Tools/LitJson/JsonMapper.cs:528)
+LitJson.JsonMapper.ToWrapper (LitJson.WrapperFactory factory, System.String json) (at Assets/Script/Tools/LitJson/JsonMapper.cs:952)
+LitJson.JsonMapper.ToObject (System.String json) (at Assets/Script/Tools/LitJson/JsonMapper.cs:911)
+ItemManage.loadJson (System.String FileName) (at Assets/Script/UI/Knapsack/ItemManage.cs:32)
+GameMain.Start () (at Assets/Script/GameMain.cs:29)
+
+
+
+2023-02-22-04-09-41:KeyNotFoundException: The given key 'Sniping' was not present in the dictionary.
+System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) (at <75633565436c42f0a6426b33f0132ade>:0)
+ItemManage.getItemByName (System.String name) (at Assets/Script/UI/Knapsack/ItemManage.cs:20)
+ShortcutBarManage.AddItem (System.String name) (at Assets/Script/UI/Knapsack/ShortcutBarManage.cs:54)
+EventCenter.Trigger[T] (System.String name, T info) (at Assets/Script/EventManage/EventCenter.cs:62)
+GunManage.AddWeapon (System.String name) (at Assets/Script/WeaponSystem/Gun/GunManage.cs:65)
+EventCenter.Trigger[T] (System.String name, T info) (at Assets/Script/EventManage/EventCenter.cs:62)
+GameMain.Update () (at Assets/Script/GameMain.cs:40)
+
+
+
+2023-02-22-04-19-26:NullReferenceException: Object reference not set to an instance of an object
+ShopItemUI.showItem () (at Assets/Script/UI/Shop/ShopItemUI.cs:30)
+ShopItemUI.setItem (Item item) (at Assets/Script/UI/Shop/ShopItemUI.cs:25)
+ShopManage.CreateItem () (at Assets/Script/UI/Shop/ShopManage.cs:30)
+ShopManage.Start () (at Assets/Script/UI/Shop/ShopManage.cs:22)
+
+
+
+2023-02-22-04-23-02:NullReferenceException: Object reference not set to an instance of an object
+ShopItemUI.showItem () (at Assets/Script/UI/Shop/ShopItemUI.cs:30)
+ShopItemUI.setItem (Item item) (at Assets/Script/UI/Shop/ShopItemUI.cs:25)
+ShopManage.CreateItem () (at Assets/Script/UI/Shop/ShopManage.cs:30)
+ShopManage.Start () (at Assets/Script/UI/Shop/ShopManage.cs:22)
+
+

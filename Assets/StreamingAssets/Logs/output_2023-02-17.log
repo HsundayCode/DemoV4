@@ -1,0 +1,1212 @@
+
+2023-02-17-12-39-20:发现目标
+UnityEngine.Debug:Log (object)
+IdelState:OnExit () (at Assets/Script/EnemyStateFSM/IdelState.cs:35)
+EnemyFSM:ChangeState (State) (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:107)
+IdelState:OnUpdate () (at Assets/Script/EnemyStateFSM/IdelState.cs:25)
+EnemyFSM:Update () (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:88)
+
+
+
+2023-02-17-12-39-23:装备Sniping
+UnityEngine.Debug:Log (object)
+GunManage:SwitchWeapon (string) (at Assets/Script/WeaponSystem/GunManage.cs:30)
+EventCenter:Trigger<string> (string,string) (at Assets/Script/EventManage/EventCenter.cs:59)
+GameMain:Update () (at Assets/Script/GameMain.cs:41)
+
+
+
+2023-02-17-12-39-23:更换
+UnityEngine.Debug:Log (object)
+BaseGun:UpGunCfg (GunCfg) (at Assets/Script/WeaponSystem/BaseGun.cs:74)
+EventCenter:Trigger<GunCfg> (string,GunCfg) (at Assets/Script/EventManage/EventCenter.cs:59)
+GunManage:SwitchWeapon (string) (at Assets/Script/WeaponSystem/GunManage.cs:36)
+EventCenter:Trigger<string> (string,string) (at Assets/Script/EventManage/EventCenter.cs:59)
+GameMain:Update () (at Assets/Script/GameMain.cs:41)
+
+
+
+2023-02-17-12-39-23:更换
+UnityEngine.Debug:Log (object)
+BaseGun:UpGunCfg (GunCfg) (at Assets/Script/WeaponSystem/BaseGun.cs:74)
+EventCenter:Trigger<GunCfg> (string,GunCfg) (at Assets/Script/EventManage/EventCenter.cs:59)
+GunManage:UpgradeBullet (string) (at Assets/Script/WeaponSystem/GunManage.cs:48)
+EventCenter:Trigger<string> (string,string) (at Assets/Script/EventManage/EventCenter.cs:59)
+GameMain:Update () (at Assets/Script/GameMain.cs:42)
+
+
+
+2023-02-17-12-39-23:NullReferenceException: Object reference not set to an instance of an object
+BaseGun.Fire () (at Assets/Script/WeaponSystem/BaseGun.cs:56)
+BaseGun.Update () (at Assets/Script/WeaponSystem/BaseGun.cs:40)
+
+
+
+2023-02-17-12-40-27:进入Run
+UnityEngine.Debug:Log (object)
+EnemyFSM:ChangeState (State) (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:106)
+IdelState:OnUpdate () (at Assets/Script/EnemyStateFSM/IdelState.cs:25)
+EnemyFSM:Update () (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:88)
+
+
+
+2023-02-17-12-40-27:发现目标
+UnityEngine.Debug:Log (object)
+IdelState:OnExit () (at Assets/Script/EnemyStateFSM/IdelState.cs:35)
+EnemyFSM:ChangeState (State) (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:107)
+IdelState:OnUpdate () (at Assets/Script/EnemyStateFSM/IdelState.cs:25)
+EnemyFSM:Update () (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:88)
+
+
+
+2023-02-17-12-40-36:装备Sniping
+UnityEngine.Debug:Log (object)
+GunManage:SwitchWeapon (string) (at Assets/Script/WeaponSystem/GunManage.cs:30)
+EventCenter:Trigger<string> (string,string) (at Assets/Script/EventManage/EventCenter.cs:59)
+GameMain:Update () (at Assets/Script/GameMain.cs:41)
+
+
+
+2023-02-17-12-40-36:更换
+UnityEngine.Debug:Log (object)
+BaseGun:UpGunCfg (GunCfg) (at Assets/Script/WeaponSystem/BaseGun.cs:74)
+EventCenter:Trigger<GunCfg> (string,GunCfg) (at Assets/Script/EventManage/EventCenter.cs:59)
+GunManage:SwitchWeapon (string) (at Assets/Script/WeaponSystem/GunManage.cs:36)
+EventCenter:Trigger<string> (string,string) (at Assets/Script/EventManage/EventCenter.cs:59)
+GameMain:Update () (at Assets/Script/GameMain.cs:41)
+
+
+
+2023-02-17-12-40-36:更换
+UnityEngine.Debug:Log (object)
+BaseGun:UpGunCfg (GunCfg) (at Assets/Script/WeaponSystem/BaseGun.cs:74)
+EventCenter:Trigger<GunCfg> (string,GunCfg) (at Assets/Script/EventManage/EventCenter.cs:59)
+GunManage:UpgradeBullet (string) (at Assets/Script/WeaponSystem/GunManage.cs:48)
+EventCenter:Trigger<string> (string,string) (at Assets/Script/EventManage/EventCenter.cs:59)
+GameMain:Update () (at Assets/Script/GameMain.cs:42)
+
+
+
+2023-02-17-12-40-37:现在是PistorMuzzle
+UnityEngine.Debug:Log (object)
+PistorMuzzle:toFire (string) (at Assets/Script/WeaponSystem/PistorMuzzle.cs:22)
+EventCenter:Trigger<string> (string,string) (at Assets/Script/EventManage/EventCenter.cs:59)
+BaseGun:Fire () (at Assets/Script/WeaponSystem/BaseGun.cs:58)
+BaseGun:Update () (at Assets/Script/WeaponSystem/BaseGun.cs:40)
+
+
+
+2023-02-17-12-40-39:NullReferenceException: Object reference not set to an instance of an object
+AudioManage.PlaySound (UnityEngine.GameObject g, System.String SoundName) (at Assets/Script/Manage/AudioManage.cs:22)
+BaseGun.Fire () (at Assets/Script/WeaponSystem/BaseGun.cs:56)
+BaseGun.Update () (at Assets/Script/WeaponSystem/BaseGun.cs:40)
+
+
+
+2023-02-17-12-40-39:击中Fly_eye
+UnityEngine.Debug:Log (object)
+Bullet:OnTriggerEnter2D (UnityEngine.Collider2D) (at Assets/Script/WeaponSystem/Bullet.cs:43)
+
+
+
+2023-02-17-12-40-39:伤害30
+UnityEngine.Debug:Log (object)
+EnemyFSM:ReduceHP (int) (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:125)
+Bullet:OnTriggerEnter2D (UnityEngine.Collider2D) (at Assets/Script/WeaponSystem/Bullet.cs:44)
+
+
+
+2023-02-17-12-40-39:NullReferenceException: Object reference not set to an instance of an object
+AudioManage.PlaySound (UnityEngine.GameObject g, System.String SoundName) (at Assets/Script/Manage/AudioManage.cs:22)
+BaseGun.Fire () (at Assets/Script/WeaponSystem/BaseGun.cs:56)
+BaseGun.Update () (at Assets/Script/WeaponSystem/BaseGun.cs:40)
+
+
+
+2023-02-17-12-40-40:NullReferenceException: Object reference not set to an instance of an object
+AudioManage.PlaySound (UnityEngine.GameObject g, System.String SoundName) (at Assets/Script/Manage/AudioManage.cs:22)
+BaseGun.Fire () (at Assets/Script/WeaponSystem/BaseGun.cs:56)
+BaseGun.Update () (at Assets/Script/WeaponSystem/BaseGun.cs:40)
+
+
+
+2023-02-17-12-40-40:NullReferenceException: Object reference not set to an instance of an object
+AudioManage.PlaySound (UnityEngine.GameObject g, System.String SoundName) (at Assets/Script/Manage/AudioManage.cs:22)
+BaseGun.Fire () (at Assets/Script/WeaponSystem/BaseGun.cs:56)
+BaseGun.Update () (at Assets/Script/WeaponSystem/BaseGun.cs:40)
+
+
+
+2023-02-17-12-40-41:NullReferenceException: Object reference not set to an instance of an object
+AudioManage.PlaySound (UnityEngine.GameObject g, System.String SoundName) (at Assets/Script/Manage/AudioManage.cs:22)
+BaseGun.Fire () (at Assets/Script/WeaponSystem/BaseGun.cs:56)
+BaseGun.Update () (at Assets/Script/WeaponSystem/BaseGun.cs:40)
+
+
+
+2023-02-17-12-40-41:NullReferenceException: Object reference not set to an instance of an object
+AudioManage.PlaySound (UnityEngine.GameObject g, System.String SoundName) (at Assets/Script/Manage/AudioManage.cs:22)
+BaseGun.Fire () (at Assets/Script/WeaponSystem/BaseGun.cs:56)
+BaseGun.Update () (at Assets/Script/WeaponSystem/BaseGun.cs:40)
+
+
+
+2023-02-17-12-40-42:NullReferenceException: Object reference not set to an instance of an object
+AudioManage.PlaySound (UnityEngine.GameObject g, System.String SoundName) (at Assets/Script/Manage/AudioManage.cs:22)
+BaseGun.Fire () (at Assets/Script/WeaponSystem/BaseGun.cs:56)
+BaseGun.Update () (at Assets/Script/WeaponSystem/BaseGun.cs:40)
+
+
+
+2023-02-17-12-40-42:NullReferenceException: Object reference not set to an instance of an object
+AudioManage.PlaySound (UnityEngine.GameObject g, System.String SoundName) (at Assets/Script/Manage/AudioManage.cs:22)
+BaseGun.Fire () (at Assets/Script/WeaponSystem/BaseGun.cs:56)
+BaseGun.Update () (at Assets/Script/WeaponSystem/BaseGun.cs:40)
+
+
+
+2023-02-17-12-43-28:进入Run
+UnityEngine.Debug:Log (object)
+EnemyFSM:ChangeState (State) (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:106)
+IdelState:OnUpdate () (at Assets/Script/EnemyStateFSM/IdelState.cs:25)
+EnemyFSM:Update () (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:88)
+
+
+
+2023-02-17-12-43-28:发现目标
+UnityEngine.Debug:Log (object)
+IdelState:OnExit () (at Assets/Script/EnemyStateFSM/IdelState.cs:35)
+EnemyFSM:ChangeState (State) (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:107)
+IdelState:OnUpdate () (at Assets/Script/EnemyStateFSM/IdelState.cs:25)
+EnemyFSM:Update () (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:88)
+
+
+
+2023-02-17-12-43-32:装备Sniping
+UnityEngine.Debug:Log (object)
+GunManage:SwitchWeapon (string) (at Assets/Script/WeaponSystem/GunManage.cs:30)
+EventCenter:Trigger<string> (string,string) (at Assets/Script/EventManage/EventCenter.cs:59)
+GameMain:Update () (at Assets/Script/GameMain.cs:41)
+
+
+
+2023-02-17-12-43-32:更换
+UnityEngine.Debug:Log (object)
+BaseGun:UpGunCfg (GunCfg) (at Assets/Script/WeaponSystem/BaseGun.cs:74)
+EventCenter:Trigger<GunCfg> (string,GunCfg) (at Assets/Script/EventManage/EventCenter.cs:59)
+GunManage:SwitchWeapon (string) (at Assets/Script/WeaponSystem/GunManage.cs:36)
+EventCenter:Trigger<string> (string,string) (at Assets/Script/EventManage/EventCenter.cs:59)
+GameMain:Update () (at Assets/Script/GameMain.cs:41)
+
+
+
+2023-02-17-12-43-32:更换
+UnityEngine.Debug:Log (object)
+BaseGun:UpGunCfg (GunCfg) (at Assets/Script/WeaponSystem/BaseGun.cs:74)
+EventCenter:Trigger<GunCfg> (string,GunCfg) (at Assets/Script/EventManage/EventCenter.cs:59)
+GunManage:UpgradeBullet (string) (at Assets/Script/WeaponSystem/GunManage.cs:48)
+EventCenter:Trigger<string> (string,string) (at Assets/Script/EventManage/EventCenter.cs:59)
+GameMain:Update () (at Assets/Script/GameMain.cs:42)
+
+
+
+2023-02-17-12-43-32:现在是PistorMuzzle
+UnityEngine.Debug:Log (object)
+PistorMuzzle:toFire (string) (at Assets/Script/WeaponSystem/PistorMuzzle.cs:22)
+EventCenter:Trigger<string> (string,string) (at Assets/Script/EventManage/EventCenter.cs:59)
+BaseGun:Fire () (at Assets/Script/WeaponSystem/BaseGun.cs:58)
+BaseGun:Update () (at Assets/Script/WeaponSystem/BaseGun.cs:40)
+
+
+
+2023-02-17-12-43-34:现在是PistorMuzzle
+UnityEngine.Debug:Log (object)
+PistorMuzzle:toFire (string) (at Assets/Script/WeaponSystem/PistorMuzzle.cs:22)
+EventCenter:Trigger<string> (string,string) (at Assets/Script/EventManage/EventCenter.cs:59)
+BaseGun:Fire () (at Assets/Script/WeaponSystem/BaseGun.cs:58)
+BaseGun:Update () (at Assets/Script/WeaponSystem/BaseGun.cs:40)
+
+
+
+2023-02-17-12-43-34:击中Fly_eye
+UnityEngine.Debug:Log (object)
+Bullet:OnTriggerEnter2D (UnityEngine.Collider2D) (at Assets/Script/WeaponSystem/Bullet.cs:43)
+
+
+
+2023-02-17-12-43-34:伤害30
+UnityEngine.Debug:Log (object)
+EnemyFSM:ReduceHP (int) (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:125)
+Bullet:OnTriggerEnter2D (UnityEngine.Collider2D) (at Assets/Script/WeaponSystem/Bullet.cs:44)
+
+
+
+2023-02-17-12-43-35:击中Fly_eye
+UnityEngine.Debug:Log (object)
+Bullet:OnTriggerEnter2D (UnityEngine.Collider2D) (at Assets/Script/WeaponSystem/Bullet.cs:43)
+
+
+
+2023-02-17-12-43-35:伤害30
+UnityEngine.Debug:Log (object)
+EnemyFSM:ReduceHP (int) (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:125)
+Bullet:OnTriggerEnter2D (UnityEngine.Collider2D) (at Assets/Script/WeaponSystem/Bullet.cs:44)
+
+
+
+2023-02-17-12-43-36:现在是PistorMuzzle
+UnityEngine.Debug:Log (object)
+PistorMuzzle:toFire (string) (at Assets/Script/WeaponSystem/PistorMuzzle.cs:22)
+EventCenter:Trigger<string> (string,string) (at Assets/Script/EventManage/EventCenter.cs:59)
+BaseGun:Fire () (at Assets/Script/WeaponSystem/BaseGun.cs:58)
+BaseGun:Update () (at Assets/Script/WeaponSystem/BaseGun.cs:40)
+
+
+
+2023-02-17-12-43-36:击中Fly_eye
+UnityEngine.Debug:Log (object)
+Bullet:OnTriggerEnter2D (UnityEngine.Collider2D) (at Assets/Script/WeaponSystem/Bullet.cs:43)
+
+
+
+2023-02-17-12-43-36:伤害30
+UnityEngine.Debug:Log (object)
+EnemyFSM:ReduceHP (int) (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:125)
+Bullet:OnTriggerEnter2D (UnityEngine.Collider2D) (at Assets/Script/WeaponSystem/Bullet.cs:44)
+
+
+
+2023-02-17-12-43-37:正在装备
+UnityEngine.Debug:Log (object)
+GunManage:SwitchWeapon (string) (at Assets/Script/WeaponSystem/GunManage.cs:25)
+EventCenter:Trigger<string> (string,string) (at Assets/Script/EventManage/EventCenter.cs:59)
+GameMain:Update () (at Assets/Script/GameMain.cs:41)
+
+
+
+2023-02-17-12-43-37:更换
+UnityEngine.Debug:Log (object)
+BaseGun:UpGunCfg (GunCfg) (at Assets/Script/WeaponSystem/BaseGun.cs:74)
+EventCenter:Trigger<GunCfg> (string,GunCfg) (at Assets/Script/EventManage/EventCenter.cs:59)
+GunManage:UpgradeBullet (string) (at Assets/Script/WeaponSystem/GunManage.cs:48)
+EventCenter:Trigger<string> (string,string) (at Assets/Script/EventManage/EventCenter.cs:59)
+GameMain:Update () (at Assets/Script/GameMain.cs:42)
+
+
+
+2023-02-17-12-43-38:现在是PistorMuzzle
+UnityEngine.Debug:Log (object)
+PistorMuzzle:toFire (string) (at Assets/Script/WeaponSystem/PistorMuzzle.cs:22)
+EventCenter:Trigger<string> (string,string) (at Assets/Script/EventManage/EventCenter.cs:59)
+BaseGun:Fire () (at Assets/Script/WeaponSystem/BaseGun.cs:58)
+BaseGun:Update () (at Assets/Script/WeaponSystem/BaseGun.cs:40)
+
+
+
+2023-02-17-12-43-38:击中Fly_eye
+UnityEngine.Debug:Log (object)
+Bullet:OnTriggerEnter2D (UnityEngine.Collider2D) (at Assets/Script/WeaponSystem/Bullet.cs:43)
+
+
+
+2023-02-17-12-43-38:伤害30
+UnityEngine.Debug:Log (object)
+EnemyFSM:ReduceHP (int) (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:125)
+Bullet:OnTriggerEnter2D (UnityEngine.Collider2D) (at Assets/Script/WeaponSystem/Bullet.cs:44)
+
+
+
+2023-02-17-12-43-38:进入Death
+UnityEngine.Debug:Log (object)
+EnemyFSM:ChangeState (State) (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:106)
+RunState:OnUpdate () (at Assets/Script/EnemyStateFSM/RunState.cs:35)
+EnemyFSM:Update () (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:88)
+
+
+
+2023-02-17-12-43-38:退出追击
+UnityEngine.Debug:Log (object)
+RunState:OnExit () (at Assets/Script/EnemyStateFSM/RunState.cs:41)
+EnemyFSM:ChangeState (State) (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:107)
+RunState:OnUpdate () (at Assets/Script/EnemyStateFSM/RunState.cs:35)
+EnemyFSM:Update () (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:88)
+
+
+
+2023-02-17-12-49-04:进入Run
+UnityEngine.Debug:Log (object)
+EnemyFSM:ChangeState (State) (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:106)
+IdelState:OnUpdate () (at Assets/Script/EnemyStateFSM/IdelState.cs:25)
+EnemyFSM:Update () (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:88)
+
+
+
+2023-02-17-12-49-04:发现目标
+UnityEngine.Debug:Log (object)
+IdelState:OnExit () (at Assets/Script/EnemyStateFSM/IdelState.cs:35)
+EnemyFSM:ChangeState (State) (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:107)
+IdelState:OnUpdate () (at Assets/Script/EnemyStateFSM/IdelState.cs:25)
+EnemyFSM:Update () (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:88)
+
+
+
+2023-02-17-12-49-08:装备Sniping
+UnityEngine.Debug:Log (object)
+GunManage:SwitchWeapon (string) (at Assets/Script/WeaponSystem/GunManage.cs:30)
+EventCenter:Trigger<string> (string,string) (at Assets/Script/EventManage/EventCenter.cs:59)
+GameMain:Update () (at Assets/Script/GameMain.cs:41)
+
+
+
+2023-02-17-12-49-08:更换
+UnityEngine.Debug:Log (object)
+BaseGun:UpGunCfg (GunCfg) (at Assets/Script/WeaponSystem/BaseGun.cs:74)
+EventCenter:Trigger<GunCfg> (string,GunCfg) (at Assets/Script/EventManage/EventCenter.cs:59)
+GunManage:SwitchWeapon (string) (at Assets/Script/WeaponSystem/GunManage.cs:36)
+EventCenter:Trigger<string> (string,string) (at Assets/Script/EventManage/EventCenter.cs:59)
+GameMain:Update () (at Assets/Script/GameMain.cs:41)
+
+
+
+2023-02-17-12-49-08:更换
+UnityEngine.Debug:Log (object)
+BaseGun:UpGunCfg (GunCfg) (at Assets/Script/WeaponSystem/BaseGun.cs:74)
+EventCenter:Trigger<GunCfg> (string,GunCfg) (at Assets/Script/EventManage/EventCenter.cs:59)
+GunManage:UpgradeBullet (string) (at Assets/Script/WeaponSystem/GunManage.cs:48)
+EventCenter:Trigger<string> (string,string) (at Assets/Script/EventManage/EventCenter.cs:59)
+GameMain:Update () (at Assets/Script/GameMain.cs:42)
+
+
+
+2023-02-17-12-49-08:现在是PistorMuzzle
+UnityEngine.Debug:Log (object)
+PistorMuzzle:toFire (string) (at Assets/Script/WeaponSystem/PistorMuzzle.cs:22)
+EventCenter:Trigger<string> (string,string) (at Assets/Script/EventManage/EventCenter.cs:59)
+BaseGun:Fire () (at Assets/Script/WeaponSystem/BaseGun.cs:58)
+BaseGun:Update () (at Assets/Script/WeaponSystem/BaseGun.cs:40)
+
+
+
+2023-02-17-12-49-10:现在是PistorMuzzle
+UnityEngine.Debug:Log (object)
+PistorMuzzle:toFire (string) (at Assets/Script/WeaponSystem/PistorMuzzle.cs:22)
+EventCenter:Trigger<string> (string,string) (at Assets/Script/EventManage/EventCenter.cs:59)
+BaseGun:Fire () (at Assets/Script/WeaponSystem/BaseGun.cs:58)
+BaseGun:Update () (at Assets/Script/WeaponSystem/BaseGun.cs:40)
+
+
+
+2023-02-17-12-49-10:击中Fly_eye
+UnityEngine.Debug:Log (object)
+Bullet:OnTriggerEnter2D (UnityEngine.Collider2D) (at Assets/Script/WeaponSystem/Bullet.cs:43)
+
+
+
+2023-02-17-12-49-10:伤害30
+UnityEngine.Debug:Log (object)
+EnemyFSM:ReduceHP (int) (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:125)
+Bullet:OnTriggerEnter2D (UnityEngine.Collider2D) (at Assets/Script/WeaponSystem/Bullet.cs:44)
+
+
+
+2023-02-17-12-49-11:击中Fly_eye
+UnityEngine.Debug:Log (object)
+Bullet:OnTriggerEnter2D (UnityEngine.Collider2D) (at Assets/Script/WeaponSystem/Bullet.cs:43)
+
+
+
+2023-02-17-12-49-11:伤害30
+UnityEngine.Debug:Log (object)
+EnemyFSM:ReduceHP (int) (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:125)
+Bullet:OnTriggerEnter2D (UnityEngine.Collider2D) (at Assets/Script/WeaponSystem/Bullet.cs:44)
+
+
+
+2023-02-17-12-49-12:现在是PistorMuzzle
+UnityEngine.Debug:Log (object)
+PistorMuzzle:toFire (string) (at Assets/Script/WeaponSystem/PistorMuzzle.cs:22)
+EventCenter:Trigger<string> (string,string) (at Assets/Script/EventManage/EventCenter.cs:59)
+BaseGun:Fire () (at Assets/Script/WeaponSystem/BaseGun.cs:58)
+BaseGun:Update () (at Assets/Script/WeaponSystem/BaseGun.cs:40)
+
+
+
+2023-02-17-12-49-12:击中Fly_eye
+UnityEngine.Debug:Log (object)
+Bullet:OnTriggerEnter2D (UnityEngine.Collider2D) (at Assets/Script/WeaponSystem/Bullet.cs:43)
+
+
+
+2023-02-17-12-49-12:伤害30
+UnityEngine.Debug:Log (object)
+EnemyFSM:ReduceHP (int) (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:125)
+Bullet:OnTriggerEnter2D (UnityEngine.Collider2D) (at Assets/Script/WeaponSystem/Bullet.cs:44)
+
+
+
+2023-02-17-12-49-14:现在是PistorMuzzle
+UnityEngine.Debug:Log (object)
+PistorMuzzle:toFire (string) (at Assets/Script/WeaponSystem/PistorMuzzle.cs:22)
+EventCenter:Trigger<string> (string,string) (at Assets/Script/EventManage/EventCenter.cs:59)
+BaseGun:Fire () (at Assets/Script/WeaponSystem/BaseGun.cs:58)
+BaseGun:Update () (at Assets/Script/WeaponSystem/BaseGun.cs:40)
+
+
+
+2023-02-17-12-49-15:击中Fly_eye
+UnityEngine.Debug:Log (object)
+Bullet:OnTriggerEnter2D (UnityEngine.Collider2D) (at Assets/Script/WeaponSystem/Bullet.cs:43)
+
+
+
+2023-02-17-12-49-15:伤害30
+UnityEngine.Debug:Log (object)
+EnemyFSM:ReduceHP (int) (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:125)
+Bullet:OnTriggerEnter2D (UnityEngine.Collider2D) (at Assets/Script/WeaponSystem/Bullet.cs:44)
+
+
+
+2023-02-17-12-49-15:进入Death
+UnityEngine.Debug:Log (object)
+EnemyFSM:ChangeState (State) (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:106)
+RunState:OnUpdate () (at Assets/Script/EnemyStateFSM/RunState.cs:35)
+EnemyFSM:Update () (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:88)
+
+
+
+2023-02-17-12-49-15:退出追击
+UnityEngine.Debug:Log (object)
+RunState:OnExit () (at Assets/Script/EnemyStateFSM/RunState.cs:41)
+EnemyFSM:ChangeState (State) (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:107)
+RunState:OnUpdate () (at Assets/Script/EnemyStateFSM/RunState.cs:35)
+EnemyFSM:Update () (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:88)
+
+
+
+2023-02-17-12-56-03:进入Run
+UnityEngine.Debug:Log (object)
+EnemyFSM:ChangeState (State) (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:106)
+IdelState:OnUpdate () (at Assets/Script/EnemyStateFSM/IdelState.cs:25)
+EnemyFSM:Update () (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:88)
+
+
+
+2023-02-17-12-56-03:发现目标
+UnityEngine.Debug:Log (object)
+IdelState:OnExit () (at Assets/Script/EnemyStateFSM/IdelState.cs:35)
+EnemyFSM:ChangeState (State) (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:107)
+IdelState:OnUpdate () (at Assets/Script/EnemyStateFSM/IdelState.cs:25)
+EnemyFSM:Update () (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:88)
+
+
+
+2023-02-17-12-56-10:装备Sniping
+UnityEngine.Debug:Log (object)
+GunManage:SwitchWeapon (string) (at Assets/Script/WeaponSystem/GunManage.cs:30)
+EventCenter:Trigger<string> (string,string) (at Assets/Script/EventManage/EventCenter.cs:59)
+GameMain:Update () (at Assets/Script/GameMain.cs:41)
+
+
+
+2023-02-17-12-56-10:更换
+UnityEngine.Debug:Log (object)
+BaseGun:UpGunCfg (GunCfg) (at Assets/Script/WeaponSystem/BaseGun.cs:74)
+EventCenter:Trigger<GunCfg> (string,GunCfg) (at Assets/Script/EventManage/EventCenter.cs:59)
+GunManage:SwitchWeapon (string) (at Assets/Script/WeaponSystem/GunManage.cs:36)
+EventCenter:Trigger<string> (string,string) (at Assets/Script/EventManage/EventCenter.cs:59)
+GameMain:Update () (at Assets/Script/GameMain.cs:41)
+
+
+
+2023-02-17-12-56-10:更换
+UnityEngine.Debug:Log (object)
+BaseGun:UpGunCfg (GunCfg) (at Assets/Script/WeaponSystem/BaseGun.cs:74)
+EventCenter:Trigger<GunCfg> (string,GunCfg) (at Assets/Script/EventManage/EventCenter.cs:59)
+GunManage:UpgradeBullet (string) (at Assets/Script/WeaponSystem/GunManage.cs:48)
+EventCenter:Trigger<string> (string,string) (at Assets/Script/EventManage/EventCenter.cs:59)
+GameMain:Update () (at Assets/Script/GameMain.cs:42)
+
+
+
+2023-02-17-12-56-11:现在是PistorMuzzle
+UnityEngine.Debug:Log (object)
+PistorMuzzle:toFire (string) (at Assets/Script/WeaponSystem/PistorMuzzle.cs:22)
+EventCenter:Trigger<string> (string,string) (at Assets/Script/EventManage/EventCenter.cs:59)
+BaseGun:Fire () (at Assets/Script/WeaponSystem/BaseGun.cs:58)
+BaseGun:Update () (at Assets/Script/WeaponSystem/BaseGun.cs:40)
+
+
+
+2023-02-17-12-56-13:击中Fly_eye
+UnityEngine.Debug:Log (object)
+Bullet:OnTriggerEnter2D (UnityEngine.Collider2D) (at Assets/Script/WeaponSystem/Bullet.cs:43)
+
+
+
+2023-02-17-12-56-13:伤害30
+UnityEngine.Debug:Log (object)
+EnemyFSM:ReduceHP (int) (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:125)
+Bullet:OnTriggerEnter2D (UnityEngine.Collider2D) (at Assets/Script/WeaponSystem/Bullet.cs:44)
+
+
+
+2023-02-17-12-56-13:现在是PistorMuzzle
+UnityEngine.Debug:Log (object)
+PistorMuzzle:toFire (string) (at Assets/Script/WeaponSystem/PistorMuzzle.cs:22)
+EventCenter:Trigger<string> (string,string) (at Assets/Script/EventManage/EventCenter.cs:59)
+BaseGun:Fire () (at Assets/Script/WeaponSystem/BaseGun.cs:58)
+BaseGun:Update () (at Assets/Script/WeaponSystem/BaseGun.cs:40)
+
+
+
+2023-02-17-12-56-14:击中Fly_eye
+UnityEngine.Debug:Log (object)
+Bullet:OnTriggerEnter2D (UnityEngine.Collider2D) (at Assets/Script/WeaponSystem/Bullet.cs:43)
+
+
+
+2023-02-17-12-56-14:伤害30
+UnityEngine.Debug:Log (object)
+EnemyFSM:ReduceHP (int) (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:125)
+Bullet:OnTriggerEnter2D (UnityEngine.Collider2D) (at Assets/Script/WeaponSystem/Bullet.cs:44)
+
+
+
+2023-02-17-12-56-15:现在是PistorMuzzle
+UnityEngine.Debug:Log (object)
+PistorMuzzle:toFire (string) (at Assets/Script/WeaponSystem/PistorMuzzle.cs:22)
+EventCenter:Trigger<string> (string,string) (at Assets/Script/EventManage/EventCenter.cs:59)
+BaseGun:Fire () (at Assets/Script/WeaponSystem/BaseGun.cs:58)
+BaseGun:Update () (at Assets/Script/WeaponSystem/BaseGun.cs:40)
+
+
+
+2023-02-17-12-56-15:击中Fly_eye
+UnityEngine.Debug:Log (object)
+Bullet:OnTriggerEnter2D (UnityEngine.Collider2D) (at Assets/Script/WeaponSystem/Bullet.cs:43)
+
+
+
+2023-02-17-12-56-15:伤害30
+UnityEngine.Debug:Log (object)
+EnemyFSM:ReduceHP (int) (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:125)
+Bullet:OnTriggerEnter2D (UnityEngine.Collider2D) (at Assets/Script/WeaponSystem/Bullet.cs:44)
+
+
+
+2023-02-17-12-56-16:现在是PistorMuzzle
+UnityEngine.Debug:Log (object)
+PistorMuzzle:toFire (string) (at Assets/Script/WeaponSystem/PistorMuzzle.cs:22)
+EventCenter:Trigger<string> (string,string) (at Assets/Script/EventManage/EventCenter.cs:59)
+BaseGun:Fire () (at Assets/Script/WeaponSystem/BaseGun.cs:58)
+BaseGun:Update () (at Assets/Script/WeaponSystem/BaseGun.cs:40)
+
+
+
+2023-02-17-12-56-16:击中Fly_eye
+UnityEngine.Debug:Log (object)
+Bullet:OnTriggerEnter2D (UnityEngine.Collider2D) (at Assets/Script/WeaponSystem/Bullet.cs:43)
+
+
+
+2023-02-17-12-56-16:伤害30
+UnityEngine.Debug:Log (object)
+EnemyFSM:ReduceHP (int) (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:125)
+Bullet:OnTriggerEnter2D (UnityEngine.Collider2D) (at Assets/Script/WeaponSystem/Bullet.cs:44)
+
+
+
+2023-02-17-12-56-16:进入Death
+UnityEngine.Debug:Log (object)
+EnemyFSM:ChangeState (State) (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:106)
+RunState:OnUpdate () (at Assets/Script/EnemyStateFSM/RunState.cs:35)
+EnemyFSM:Update () (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:88)
+
+
+
+2023-02-17-12-56-16:退出追击
+UnityEngine.Debug:Log (object)
+RunState:OnExit () (at Assets/Script/EnemyStateFSM/RunState.cs:41)
+EnemyFSM:ChangeState (State) (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:107)
+RunState:OnUpdate () (at Assets/Script/EnemyStateFSM/RunState.cs:35)
+EnemyFSM:Update () (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:88)
+
+
+
+2023-02-17-12-56-18:现在是PistorMuzzle
+UnityEngine.Debug:Log (object)
+PistorMuzzle:toFire (string) (at Assets/Script/WeaponSystem/PistorMuzzle.cs:22)
+EventCenter:Trigger<string> (string,string) (at Assets/Script/EventManage/EventCenter.cs:59)
+BaseGun:Fire () (at Assets/Script/WeaponSystem/BaseGun.cs:58)
+BaseGun:Update () (at Assets/Script/WeaponSystem/BaseGun.cs:40)
+
+
+
+2023-02-17-12-56-19:现在是PistorMuzzle
+UnityEngine.Debug:Log (object)
+PistorMuzzle:toFire (string) (at Assets/Script/WeaponSystem/PistorMuzzle.cs:22)
+EventCenter:Trigger<string> (string,string) (at Assets/Script/EventManage/EventCenter.cs:59)
+BaseGun:Fire () (at Assets/Script/WeaponSystem/BaseGun.cs:58)
+BaseGun:Update () (at Assets/Script/WeaponSystem/BaseGun.cs:40)
+
+
+
+2023-02-17-12-56-21:现在是PistorMuzzle
+UnityEngine.Debug:Log (object)
+PistorMuzzle:toFire (string) (at Assets/Script/WeaponSystem/PistorMuzzle.cs:22)
+EventCenter:Trigger<string> (string,string) (at Assets/Script/EventManage/EventCenter.cs:59)
+BaseGun:Fire () (at Assets/Script/WeaponSystem/BaseGun.cs:58)
+BaseGun:Update () (at Assets/Script/WeaponSystem/BaseGun.cs:40)
+
+
+
+2023-02-17-12-56-23:现在是PistorMuzzle
+UnityEngine.Debug:Log (object)
+PistorMuzzle:toFire (string) (at Assets/Script/WeaponSystem/PistorMuzzle.cs:22)
+EventCenter:Trigger<string> (string,string) (at Assets/Script/EventManage/EventCenter.cs:59)
+BaseGun:Fire () (at Assets/Script/WeaponSystem/BaseGun.cs:58)
+BaseGun:Update () (at Assets/Script/WeaponSystem/BaseGun.cs:40)
+
+
+
+2023-02-17-12-56-24:正在装备
+UnityEngine.Debug:Log (object)
+GunManage:SwitchWeapon (string) (at Assets/Script/WeaponSystem/GunManage.cs:25)
+EventCenter:Trigger<string> (string,string) (at Assets/Script/EventManage/EventCenter.cs:59)
+GameMain:Update () (at Assets/Script/GameMain.cs:41)
+
+
+
+2023-02-17-12-56-24:更换
+UnityEngine.Debug:Log (object)
+BaseGun:UpGunCfg (GunCfg) (at Assets/Script/WeaponSystem/BaseGun.cs:74)
+EventCenter:Trigger<GunCfg> (string,GunCfg) (at Assets/Script/EventManage/EventCenter.cs:59)
+GunManage:UpgradeBullet (string) (at Assets/Script/WeaponSystem/GunManage.cs:48)
+EventCenter:Trigger<string> (string,string) (at Assets/Script/EventManage/EventCenter.cs:59)
+GameMain:Update () (at Assets/Script/GameMain.cs:42)
+
+
+
+2023-02-17-12-56-25:现在是PistorMuzzle
+UnityEngine.Debug:Log (object)
+PistorMuzzle:toFire (string) (at Assets/Script/WeaponSystem/PistorMuzzle.cs:22)
+EventCenter:Trigger<string> (string,string) (at Assets/Script/EventManage/EventCenter.cs:59)
+BaseGun:Fire () (at Assets/Script/WeaponSystem/BaseGun.cs:58)
+BaseGun:Update () (at Assets/Script/WeaponSystem/BaseGun.cs:40)
+
+
+
+2023-02-17-12-56-26:现在是PistorMuzzle
+UnityEngine.Debug:Log (object)
+PistorMuzzle:toFire (string) (at Assets/Script/WeaponSystem/PistorMuzzle.cs:22)
+EventCenter:Trigger<string> (string,string) (at Assets/Script/EventManage/EventCenter.cs:59)
+BaseGun:Fire () (at Assets/Script/WeaponSystem/BaseGun.cs:58)
+BaseGun:Update () (at Assets/Script/WeaponSystem/BaseGun.cs:40)
+
+
+
+2023-02-17-12-56-28:现在是PistorMuzzle
+UnityEngine.Debug:Log (object)
+PistorMuzzle:toFire (string) (at Assets/Script/WeaponSystem/PistorMuzzle.cs:22)
+EventCenter:Trigger<string> (string,string) (at Assets/Script/EventManage/EventCenter.cs:59)
+BaseGun:Fire () (at Assets/Script/WeaponSystem/BaseGun.cs:58)
+BaseGun:Update () (at Assets/Script/WeaponSystem/BaseGun.cs:40)
+
+
+
+2023-02-17-12-58-35:进入Run
+UnityEngine.Debug:Log (object)
+EnemyFSM:ChangeState (State) (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:106)
+IdelState:OnUpdate () (at Assets/Script/EnemyStateFSM/IdelState.cs:25)
+EnemyFSM:Update () (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:88)
+
+
+
+2023-02-17-12-58-35:发现目标
+UnityEngine.Debug:Log (object)
+IdelState:OnExit () (at Assets/Script/EnemyStateFSM/IdelState.cs:35)
+EnemyFSM:ChangeState (State) (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:107)
+IdelState:OnUpdate () (at Assets/Script/EnemyStateFSM/IdelState.cs:25)
+EnemyFSM:Update () (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:88)
+
+
+
+2023-02-17-12-58-38:装备Sniping
+UnityEngine.Debug:Log (object)
+GunManage:SwitchWeapon (string) (at Assets/Script/WeaponSystem/GunManage.cs:30)
+EventCenter:Trigger<string> (string,string) (at Assets/Script/EventManage/EventCenter.cs:59)
+GameMain:Update () (at Assets/Script/GameMain.cs:41)
+
+
+
+2023-02-17-12-58-38:更换
+UnityEngine.Debug:Log (object)
+BaseGun:UpGunCfg (GunCfg) (at Assets/Script/WeaponSystem/BaseGun.cs:74)
+EventCenter:Trigger<GunCfg> (string,GunCfg) (at Assets/Script/EventManage/EventCenter.cs:59)
+GunManage:SwitchWeapon (string) (at Assets/Script/WeaponSystem/GunManage.cs:36)
+EventCenter:Trigger<string> (string,string) (at Assets/Script/EventManage/EventCenter.cs:59)
+GameMain:Update () (at Assets/Script/GameMain.cs:41)
+
+
+
+2023-02-17-12-58-38:更换
+UnityEngine.Debug:Log (object)
+BaseGun:UpGunCfg (GunCfg) (at Assets/Script/WeaponSystem/BaseGun.cs:74)
+EventCenter:Trigger<GunCfg> (string,GunCfg) (at Assets/Script/EventManage/EventCenter.cs:59)
+GunManage:UpgradeBullet (string) (at Assets/Script/WeaponSystem/GunManage.cs:48)
+EventCenter:Trigger<string> (string,string) (at Assets/Script/EventManage/EventCenter.cs:59)
+GameMain:Update () (at Assets/Script/GameMain.cs:42)
+
+
+
+2023-02-17-12-58-39:现在是PistorMuzzle
+UnityEngine.Debug:Log (object)
+PistorMuzzle:toFire (string) (at Assets/Script/WeaponSystem/PistorMuzzle.cs:22)
+EventCenter:Trigger<string> (string,string) (at Assets/Script/EventManage/EventCenter.cs:59)
+BaseGun:Fire () (at Assets/Script/WeaponSystem/BaseGun.cs:58)
+BaseGun:Update () (at Assets/Script/WeaponSystem/BaseGun.cs:40)
+
+
+
+2023-02-17-12-58-41:现在是PistorMuzzle
+UnityEngine.Debug:Log (object)
+PistorMuzzle:toFire (string) (at Assets/Script/WeaponSystem/PistorMuzzle.cs:22)
+EventCenter:Trigger<string> (string,string) (at Assets/Script/EventManage/EventCenter.cs:59)
+BaseGun:Fire () (at Assets/Script/WeaponSystem/BaseGun.cs:58)
+BaseGun:Update () (at Assets/Script/WeaponSystem/BaseGun.cs:40)
+
+
+
+2023-02-17-12-58-41:击中Fly_eye
+UnityEngine.Debug:Log (object)
+Bullet:OnTriggerEnter2D (UnityEngine.Collider2D) (at Assets/Script/WeaponSystem/Bullet.cs:46)
+
+
+
+2023-02-17-12-58-41:伤害30
+UnityEngine.Debug:Log (object)
+EnemyFSM:ReduceHP (int) (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:125)
+Bullet:OnTriggerEnter2D (UnityEngine.Collider2D) (at Assets/Script/WeaponSystem/Bullet.cs:47)
+
+
+
+2023-02-17-12-58-42:现在是PistorMuzzle
+UnityEngine.Debug:Log (object)
+PistorMuzzle:toFire (string) (at Assets/Script/WeaponSystem/PistorMuzzle.cs:22)
+EventCenter:Trigger<string> (string,string) (at Assets/Script/EventManage/EventCenter.cs:59)
+BaseGun:Fire () (at Assets/Script/WeaponSystem/BaseGun.cs:58)
+BaseGun:Update () (at Assets/Script/WeaponSystem/BaseGun.cs:40)
+
+
+
+2023-02-17-12-58-45:现在是PistorMuzzle
+UnityEngine.Debug:Log (object)
+PistorMuzzle:toFire (string) (at Assets/Script/WeaponSystem/PistorMuzzle.cs:22)
+EventCenter:Trigger<string> (string,string) (at Assets/Script/EventManage/EventCenter.cs:59)
+BaseGun:Fire () (at Assets/Script/WeaponSystem/BaseGun.cs:58)
+BaseGun:Update () (at Assets/Script/WeaponSystem/BaseGun.cs:40)
+
+
+
+2023-02-17-12-58-45:正在装备
+UnityEngine.Debug:Log (object)
+GunManage:SwitchWeapon (string) (at Assets/Script/WeaponSystem/GunManage.cs:25)
+EventCenter:Trigger<string> (string,string) (at Assets/Script/EventManage/EventCenter.cs:59)
+GameMain:Update () (at Assets/Script/GameMain.cs:41)
+
+
+
+2023-02-17-12-58-45:更换
+UnityEngine.Debug:Log (object)
+BaseGun:UpGunCfg (GunCfg) (at Assets/Script/WeaponSystem/BaseGun.cs:74)
+EventCenter:Trigger<GunCfg> (string,GunCfg) (at Assets/Script/EventManage/EventCenter.cs:59)
+GunManage:UpgradeBullet (string) (at Assets/Script/WeaponSystem/GunManage.cs:48)
+EventCenter:Trigger<string> (string,string) (at Assets/Script/EventManage/EventCenter.cs:59)
+GameMain:Update () (at Assets/Script/GameMain.cs:42)
+
+
+
+2023-02-17-12-58-46:击中Fly_eye
+UnityEngine.Debug:Log (object)
+Bullet:OnTriggerEnter2D (UnityEngine.Collider2D) (at Assets/Script/WeaponSystem/Bullet.cs:46)
+
+
+
+2023-02-17-12-58-46:伤害30
+UnityEngine.Debug:Log (object)
+EnemyFSM:ReduceHP (int) (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:125)
+Bullet:OnTriggerEnter2D (UnityEngine.Collider2D) (at Assets/Script/WeaponSystem/Bullet.cs:47)
+
+
+
+2023-02-17-12-58-47:现在是PistorMuzzle
+UnityEngine.Debug:Log (object)
+PistorMuzzle:toFire (string) (at Assets/Script/WeaponSystem/PistorMuzzle.cs:22)
+EventCenter:Trigger<string> (string,string) (at Assets/Script/EventManage/EventCenter.cs:59)
+BaseGun:Fire () (at Assets/Script/WeaponSystem/BaseGun.cs:58)
+BaseGun:Update () (at Assets/Script/WeaponSystem/BaseGun.cs:40)
+
+
+
+2023-02-17-12-58-48:击中Fly_eye
+UnityEngine.Debug:Log (object)
+Bullet:OnTriggerEnter2D (UnityEngine.Collider2D) (at Assets/Script/WeaponSystem/Bullet.cs:46)
+
+
+
+2023-02-17-12-58-48:伤害30
+UnityEngine.Debug:Log (object)
+EnemyFSM:ReduceHP (int) (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:125)
+Bullet:OnTriggerEnter2D (UnityEngine.Collider2D) (at Assets/Script/WeaponSystem/Bullet.cs:47)
+
+
+
+2023-02-17-12-59-02:现在是PistorMuzzle
+UnityEngine.Debug:Log (object)
+PistorMuzzle:toFire (string) (at Assets/Script/WeaponSystem/PistorMuzzle.cs:22)
+EventCenter:Trigger<string> (string,string) (at Assets/Script/EventManage/EventCenter.cs:59)
+BaseGun:Fire () (at Assets/Script/WeaponSystem/BaseGun.cs:58)
+BaseGun:Update () (at Assets/Script/WeaponSystem/BaseGun.cs:40)
+
+
+
+2023-02-17-12-59-02:击中Fly_eye
+UnityEngine.Debug:Log (object)
+Bullet:OnTriggerEnter2D (UnityEngine.Collider2D) (at Assets/Script/WeaponSystem/Bullet.cs:46)
+
+
+
+2023-02-17-12-59-02:伤害30
+UnityEngine.Debug:Log (object)
+EnemyFSM:ReduceHP (int) (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:125)
+Bullet:OnTriggerEnter2D (UnityEngine.Collider2D) (at Assets/Script/WeaponSystem/Bullet.cs:47)
+
+
+
+2023-02-17-12-59-02:进入Death
+UnityEngine.Debug:Log (object)
+EnemyFSM:ChangeState (State) (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:106)
+RunState:OnUpdate () (at Assets/Script/EnemyStateFSM/RunState.cs:35)
+EnemyFSM:Update () (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:88)
+
+
+
+2023-02-17-12-59-02:退出追击
+UnityEngine.Debug:Log (object)
+RunState:OnExit () (at Assets/Script/EnemyStateFSM/RunState.cs:41)
+EnemyFSM:ChangeState (State) (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:107)
+RunState:OnUpdate () (at Assets/Script/EnemyStateFSM/RunState.cs:35)
+EnemyFSM:Update () (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:88)
+
+
+
+2023-02-17-12-59-04:现在是PistorMuzzle
+UnityEngine.Debug:Log (object)
+PistorMuzzle:toFire (string) (at Assets/Script/WeaponSystem/PistorMuzzle.cs:22)
+EventCenter:Trigger<string> (string,string) (at Assets/Script/EventManage/EventCenter.cs:59)
+BaseGun:Fire () (at Assets/Script/WeaponSystem/BaseGun.cs:58)
+BaseGun:Update () (at Assets/Script/WeaponSystem/BaseGun.cs:40)
+
+
+
+2023-02-17-12-59-04:进入Run
+UnityEngine.Debug:Log (object)
+EnemyFSM:ChangeState (State) (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:106)
+IdelState:OnUpdate () (at Assets/Script/EnemyStateFSM/IdelState.cs:25)
+EnemyFSM:Update () (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:88)
+
+
+
+2023-02-17-12-59-04:发现目标
+UnityEngine.Debug:Log (object)
+IdelState:OnExit () (at Assets/Script/EnemyStateFSM/IdelState.cs:35)
+EnemyFSM:ChangeState (State) (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:107)
+IdelState:OnUpdate () (at Assets/Script/EnemyStateFSM/IdelState.cs:25)
+EnemyFSM:Update () (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:88)
+
+
+
+2023-02-17-12-59-05:正在装备
+UnityEngine.Debug:Log (object)
+GunManage:SwitchWeapon (string) (at Assets/Script/WeaponSystem/GunManage.cs:25)
+EventCenter:Trigger<string> (string,string) (at Assets/Script/EventManage/EventCenter.cs:59)
+GameMain:Update () (at Assets/Script/GameMain.cs:41)
+
+
+
+2023-02-17-12-59-05:更换
+UnityEngine.Debug:Log (object)
+BaseGun:UpGunCfg (GunCfg) (at Assets/Script/WeaponSystem/BaseGun.cs:74)
+EventCenter:Trigger<GunCfg> (string,GunCfg) (at Assets/Script/EventManage/EventCenter.cs:59)
+GunManage:UpgradeBullet (string) (at Assets/Script/WeaponSystem/GunManage.cs:48)
+EventCenter:Trigger<string> (string,string) (at Assets/Script/EventManage/EventCenter.cs:59)
+GameMain:Update () (at Assets/Script/GameMain.cs:42)
+
+
+
+2023-02-17-12-59-05:现在是PistorMuzzle
+UnityEngine.Debug:Log (object)
+PistorMuzzle:toFire (string) (at Assets/Script/WeaponSystem/PistorMuzzle.cs:22)
+EventCenter:Trigger<string> (string,string) (at Assets/Script/EventManage/EventCenter.cs:59)
+BaseGun:Fire () (at Assets/Script/WeaponSystem/BaseGun.cs:58)
+BaseGun:Update () (at Assets/Script/WeaponSystem/BaseGun.cs:40)
+
+
+
+2023-02-17-12-59-06:击中Goblin
+UnityEngine.Debug:Log (object)
+Bullet:OnTriggerEnter2D (UnityEngine.Collider2D) (at Assets/Script/WeaponSystem/Bullet.cs:46)
+
+
+
+2023-02-17-12-59-06:伤害30
+UnityEngine.Debug:Log (object)
+EnemyFSM:ReduceHP (int) (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:125)
+Bullet:OnTriggerEnter2D (UnityEngine.Collider2D) (at Assets/Script/WeaponSystem/Bullet.cs:47)
+
+
+
+2023-02-17-12-59-06:进入Run
+UnityEngine.Debug:Log (object)
+EnemyFSM:ChangeState (State) (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:106)
+IdelState:OnUpdate () (at Assets/Script/EnemyStateFSM/IdelState.cs:25)
+EnemyFSM:Update () (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:88)
+
+
+
+2023-02-17-12-59-06:发现目标
+UnityEngine.Debug:Log (object)
+IdelState:OnExit () (at Assets/Script/EnemyStateFSM/IdelState.cs:35)
+EnemyFSM:ChangeState (State) (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:107)
+IdelState:OnUpdate () (at Assets/Script/EnemyStateFSM/IdelState.cs:25)
+EnemyFSM:Update () (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:88)
+
+
+
+2023-02-17-12-59-07:现在是PistorMuzzle
+UnityEngine.Debug:Log (object)
+PistorMuzzle:toFire (string) (at Assets/Script/WeaponSystem/PistorMuzzle.cs:22)
+EventCenter:Trigger<string> (string,string) (at Assets/Script/EventManage/EventCenter.cs:59)
+BaseGun:Fire () (at Assets/Script/WeaponSystem/BaseGun.cs:58)
+BaseGun:Update () (at Assets/Script/WeaponSystem/BaseGun.cs:40)
+
+
+
+2023-02-17-12-59-07:击中Goblin
+UnityEngine.Debug:Log (object)
+Bullet:OnTriggerEnter2D (UnityEngine.Collider2D) (at Assets/Script/WeaponSystem/Bullet.cs:46)
+
+
+
+2023-02-17-12-59-07:伤害30
+UnityEngine.Debug:Log (object)
+EnemyFSM:ReduceHP (int) (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:125)
+Bullet:OnTriggerEnter2D (UnityEngine.Collider2D) (at Assets/Script/WeaponSystem/Bullet.cs:47)
+
+
+
+2023-02-17-12-59-08:进入Run
+UnityEngine.Debug:Log (object)
+EnemyFSM:ChangeState (State) (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:106)
+IdelState:OnUpdate () (at Assets/Script/EnemyStateFSM/IdelState.cs:25)
+EnemyFSM:Update () (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:88)
+
+
+
+2023-02-17-12-59-08:发现目标
+UnityEngine.Debug:Log (object)
+IdelState:OnExit () (at Assets/Script/EnemyStateFSM/IdelState.cs:35)
+EnemyFSM:ChangeState (State) (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:107)
+IdelState:OnUpdate () (at Assets/Script/EnemyStateFSM/IdelState.cs:25)
+EnemyFSM:Update () (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:88)
+
+
+
+2023-02-17-12-59-09:现在是PistorMuzzle
+UnityEngine.Debug:Log (object)
+PistorMuzzle:toFire (string) (at Assets/Script/WeaponSystem/PistorMuzzle.cs:22)
+EventCenter:Trigger<string> (string,string) (at Assets/Script/EventManage/EventCenter.cs:59)
+BaseGun:Fire () (at Assets/Script/WeaponSystem/BaseGun.cs:58)
+BaseGun:Update () (at Assets/Script/WeaponSystem/BaseGun.cs:40)
+
+
+
+2023-02-17-12-59-10:击中Goblin
+UnityEngine.Debug:Log (object)
+Bullet:OnTriggerEnter2D (UnityEngine.Collider2D) (at Assets/Script/WeaponSystem/Bullet.cs:46)
+
+
+
+2023-02-17-12-59-10:伤害30
+UnityEngine.Debug:Log (object)
+EnemyFSM:ReduceHP (int) (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:125)
+Bullet:OnTriggerEnter2D (UnityEngine.Collider2D) (at Assets/Script/WeaponSystem/Bullet.cs:47)
+
+
+
+2023-02-17-12-59-10:进入Run
+UnityEngine.Debug:Log (object)
+EnemyFSM:ChangeState (State) (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:106)
+IdelState:OnUpdate () (at Assets/Script/EnemyStateFSM/IdelState.cs:25)
+EnemyFSM:Update () (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:88)
+
+
+
+2023-02-17-12-59-10:发现目标
+UnityEngine.Debug:Log (object)
+IdelState:OnExit () (at Assets/Script/EnemyStateFSM/IdelState.cs:35)
+EnemyFSM:ChangeState (State) (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:107)
+IdelState:OnUpdate () (at Assets/Script/EnemyStateFSM/IdelState.cs:25)
+EnemyFSM:Update () (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:88)
+
+
+
+2023-02-17-01-01-40:进入Run
+UnityEngine.Debug:Log (object)
+EnemyFSM:ChangeState (State) (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:106)
+IdelState:OnUpdate () (at Assets/Script/EnemyStateFSM/IdelState.cs:25)
+EnemyFSM:Update () (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:88)
+
+
+
+2023-02-17-01-01-40:发现目标
+UnityEngine.Debug:Log (object)
+IdelState:OnExit () (at Assets/Script/EnemyStateFSM/IdelState.cs:35)
+EnemyFSM:ChangeState (State) (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:107)
+IdelState:OnUpdate () (at Assets/Script/EnemyStateFSM/IdelState.cs:25)
+EnemyFSM:Update () (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:88)
+
+
+
+2023-02-17-01-01-44:装备Sniping
+UnityEngine.Debug:Log (object)
+GunManage:SwitchWeapon (string) (at Assets/Script/WeaponSystem/GunManage.cs:30)
+EventCenter:Trigger<string> (string,string) (at Assets/Script/EventManage/EventCenter.cs:59)
+GameMain:Update () (at Assets/Script/GameMain.cs:41)
+
+
+
+2023-02-17-01-01-44:更换
+UnityEngine.Debug:Log (object)
+BaseGun:UpGunCfg (GunCfg) (at Assets/Script/WeaponSystem/BaseGun.cs:74)
+EventCenter:Trigger<GunCfg> (string,GunCfg) (at Assets/Script/EventManage/EventCenter.cs:59)
+GunManage:SwitchWeapon (string) (at Assets/Script/WeaponSystem/GunManage.cs:36)
+EventCenter:Trigger<string> (string,string) (at Assets/Script/EventManage/EventCenter.cs:59)
+GameMain:Update () (at Assets/Script/GameMain.cs:41)
+
+
+
+2023-02-17-01-01-44:更换
+UnityEngine.Debug:Log (object)
+BaseGun:UpGunCfg (GunCfg) (at Assets/Script/WeaponSystem/BaseGun.cs:74)
+EventCenter:Trigger<GunCfg> (string,GunCfg) (at Assets/Script/EventManage/EventCenter.cs:59)
+GunManage:UpgradeBullet (string) (at Assets/Script/WeaponSystem/GunManage.cs:48)
+EventCenter:Trigger<string> (string,string) (at Assets/Script/EventManage/EventCenter.cs:59)
+GameMain:Update () (at Assets/Script/GameMain.cs:42)
+
+
+
+2023-02-17-01-01-44:现在是PistorMuzzle
+UnityEngine.Debug:Log (object)
+PistorMuzzle:toFire (string) (at Assets/Script/WeaponSystem/PistorMuzzle.cs:22)
+EventCenter:Trigger<string> (string,string) (at Assets/Script/EventManage/EventCenter.cs:59)
+BaseGun:Fire () (at Assets/Script/WeaponSystem/BaseGun.cs:58)
+BaseGun:Update () (at Assets/Script/WeaponSystem/BaseGun.cs:40)
+
+
+
+2023-02-17-01-01-46:现在是PistorMuzzle
+UnityEngine.Debug:Log (object)
+PistorMuzzle:toFire (string) (at Assets/Script/WeaponSystem/PistorMuzzle.cs:22)
+EventCenter:Trigger<string> (string,string) (at Assets/Script/EventManage/EventCenter.cs:59)
+BaseGun:Fire () (at Assets/Script/WeaponSystem/BaseGun.cs:58)
+BaseGun:Update () (at Assets/Script/WeaponSystem/BaseGun.cs:40)
+
+
+
+2023-02-17-01-01-46:击中Fly_eye
+UnityEngine.Debug:Log (object)
+Bullet:OnTriggerEnter2D (UnityEngine.Collider2D) (at Assets/Script/WeaponSystem/Bullet.cs:43)
+
+
+
+2023-02-17-01-01-46:伤害30
+UnityEngine.Debug:Log (object)
+EnemyFSM:ReduceHP (int) (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:125)
+Bullet:OnTriggerEnter2D (UnityEngine.Collider2D) (at Assets/Script/WeaponSystem/Bullet.cs:44)
+
+
+
+2023-02-17-01-01-47:击中Fly_eye
+UnityEngine.Debug:Log (object)
+Bullet:OnTriggerEnter2D (UnityEngine.Collider2D) (at Assets/Script/WeaponSystem/Bullet.cs:43)
+
+
+
+2023-02-17-01-01-47:伤害30
+UnityEngine.Debug:Log (object)
+EnemyFSM:ReduceHP (int) (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:125)
+Bullet:OnTriggerEnter2D (UnityEngine.Collider2D) (at Assets/Script/WeaponSystem/Bullet.cs:44)
+
+
+
+2023-02-17-01-01-47:现在是PistorMuzzle
+UnityEngine.Debug:Log (object)
+PistorMuzzle:toFire (string) (at Assets/Script/WeaponSystem/PistorMuzzle.cs:22)
+EventCenter:Trigger<string> (string,string) (at Assets/Script/EventManage/EventCenter.cs:59)
+BaseGun:Fire () (at Assets/Script/WeaponSystem/BaseGun.cs:58)
+BaseGun:Update () (at Assets/Script/WeaponSystem/BaseGun.cs:40)
+
+
+
+2023-02-17-01-01-48:击中Fly_eye
+UnityEngine.Debug:Log (object)
+Bullet:OnTriggerEnter2D (UnityEngine.Collider2D) (at Assets/Script/WeaponSystem/Bullet.cs:43)
+
+
+
+2023-02-17-01-01-48:伤害30
+UnityEngine.Debug:Log (object)
+EnemyFSM:ReduceHP (int) (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:125)
+Bullet:OnTriggerEnter2D (UnityEngine.Collider2D) (at Assets/Script/WeaponSystem/Bullet.cs:44)
+
+
+
+2023-02-17-01-01-49:现在是PistorMuzzle
+UnityEngine.Debug:Log (object)
+PistorMuzzle:toFire (string) (at Assets/Script/WeaponSystem/PistorMuzzle.cs:22)
+EventCenter:Trigger<string> (string,string) (at Assets/Script/EventManage/EventCenter.cs:59)
+BaseGun:Fire () (at Assets/Script/WeaponSystem/BaseGun.cs:58)
+BaseGun:Update () (at Assets/Script/WeaponSystem/BaseGun.cs:40)
+
+
+
+2023-02-17-01-01-50:击中Fly_eye
+UnityEngine.Debug:Log (object)
+Bullet:OnTriggerEnter2D (UnityEngine.Collider2D) (at Assets/Script/WeaponSystem/Bullet.cs:43)
+
+
+
+2023-02-17-01-01-50:伤害30
+UnityEngine.Debug:Log (object)
+EnemyFSM:ReduceHP (int) (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:125)
+Bullet:OnTriggerEnter2D (UnityEngine.Collider2D) (at Assets/Script/WeaponSystem/Bullet.cs:44)
+
+
+
+2023-02-17-01-01-50:进入Death
+UnityEngine.Debug:Log (object)
+EnemyFSM:ChangeState (State) (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:106)
+RunState:OnUpdate () (at Assets/Script/EnemyStateFSM/RunState.cs:35)
+EnemyFSM:Update () (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:88)
+
+
+
+2023-02-17-01-01-50:退出追击
+UnityEngine.Debug:Log (object)
+RunState:OnExit () (at Assets/Script/EnemyStateFSM/RunState.cs:41)
+EnemyFSM:ChangeState (State) (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:107)
+RunState:OnUpdate () (at Assets/Script/EnemyStateFSM/RunState.cs:35)
+EnemyFSM:Update () (at Assets/Script/EnemyStateFSM/EnemyFSM.cs:88)
+
+
